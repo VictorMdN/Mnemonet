@@ -1,0 +1,208 @@
+﻿Tópico Gramatical,Romaji,Descrição,Exemplo Kanji,Exemplo Romaji,Filter-Nível,Filter-Grupo
+いい,ii,bom,この水はいいです。,Kono mizu wa ii desu.,N5,Adjetivo
+好き,suki,gostar,私は山が好きです。,Watashi wa yama ga suki desu.,N5,Adjetivo
+きらい,kirai,não gostar,私はさ野菜きらいです。,Watashi wa yasai ga kirai desu.,N5,Adjetivo
+のがすき,no ga suki,gostar de (fazer),私はうたうのがすきです。,Watashi wa utau no ga suki desu.,N5,Adjetivo
+のがへた,no ga heta,ruim em (fazer),私は泳ぐのがへたです。,Watashi wa oyogu no ga heta desu.,N5,Adjetivo
+のがじょうず,no ga jouzu,bom em (fazer),私は野菜を切るのが上手です。,Watashi wa yasai o kiru no ga jouzu desu.,N5,Adjetivo
+verbo-てもいい,"te mo ii, de mo ii",tudo bem se (fizer),水を飲んでもいいです。,Mizu o nonde mo ii desu.,N5,Adjetivo
+い-adjectiveくてもいい・(な-adjective・noun) でもいい,"kute mo ii, de mo ii",tudo bem se for,電車でもいい。,Densha de mo ii,N5,Adjetivo
+ていい・でいい,"te ii, de ii",tudo bem se for (informal),それでいいです。,Sore de ii desu.,N5,Adjetivo
+なくてもいい,nakute mo ii,tudo bem se não (fizer),今日は勉強しなくてもいいです。,Kyou wa benkyou shinakute mo ii desu.,N5,Adjetivo
+い-adjetivo + い,i,afirmativo,暑いです。,Atsui desu.,N5,Flexão de Adjetivo
+い-adjetivo + かった,katta,afirmativo passado,寒かったです。,samukatta desu.,N5,Flexão de Adjetivo
+い-adjetivo + くない,kunai,negativo,暖かくないです。,atatakaku nai desu.,N5,Flexão de Adjetivo
+い-adjetivo + くなかった,kunakatta,negativo passado,悪くなかったです。,waruku nakatta desu.,N5,Flexão de Adjetivo
+な-adjetivo,na,adjetivo (substantivo),静かな町に住んでいます。,Shizuka na machi ni sunde imasu.,N5,Flexão de Adjetivo
+い-adjetivo +く+ verbo,-ku,adjetivo adverbial (い-adjetivo),子どもが速く走る。,Kodomo ga hayaku hashiru.,N5,Advérbio
+な-adjetivo + に + verbo,-ni,adjetivo adverbial (な-adjetivo),彼は静かに話す。,Kare wa shizuka ni hanasu.,N5,Advérbio
+verbo + まで,made,até (algo acontecer),夜になるまで外で遊びます。,Yoru ni naru made soto de asobimasu.,N5,Advérbio
+substantivo + まで,made,até (tal lugar),学校まで歩きます。,Gakkou made arukimasu.,N5,Advérbio
+だけ,dake,"só, apenas",水だけ飲みました。,Mizu dake nomimashita.,N5,Advérbio
+もう,mou-,já,この本はもう知っていますから、読みません。,"Kono hon wa mou shitteimasu kara, yomimasen.",N5,Advérbio
+もう～た,mou-ta,já (foi feito),もう帰りました。,Mou kaerimashita.,N5,Advérbio
+もう～ない,mou-nai,não mais,母はもう働きません。,Haha wa mou hatarakimasen.,N5,Advérbio
+まだ,mada-,ainda,まだ走っている。,Mada hashitteiru,N5,Advérbio
+まだ～ていません,mada-te imasen,ainda não,まだ朝ごはんを食べていません。,Mada asagohan o tabete imasen.,N5,Advérbio
+一緒（いっしょ）に,issho ni,"junto, juntos",一緒に昼ご飯を食べた。,Issho ni hirugohan o tabeta.,N5,Advérbio
+とても,totemo,muito,このケーキはとても甘い。,Kono keeki wa totemo amai.,N5,Advérbio
+けっこう,kekkou-,"bem, bastante",このお茶はけっこうおいしいです。,Kono ocha wa kekkou oishii desu.,N5,Advérbio
+たくさん,takusan-,bastante,たくさん本を読みました。,Takusan hon o yomimashita.,N5,Advérbio
+が一番（いちばん）,ga ichiban-,"o mais, o melhor",このみ店の鶏肉が一番おいしいです。,Kono mise no toriniku ga ichiban oishii desu.,N5,Advérbio
+くらい ・ぐらい,"kurai, gurai","mais ou menos, aproximadamente, ao menos",お菓子を三つくらい食べました。,Okashi o mittsu kurai tabemashita.,N5,Advérbio
+あまり〜ない,amari-nai,"não muito, não tanto",映画はあまり面白くない。,Eiga wa amari omoshirokunai.,N5,Advérbio
+しか〜ない,shika -nai,"não mais que, apenas",一人しかいない。,Hitori shika inai.,N5,Advérbio
+いつも,itsumo,sempre,私はいつも早く起きる。,Watashi wa itsumo hayaku okiru.,N5,Advérbio
+まえに,mae ni,"antes de, na frentre",食べる前に手を洗います。,Taberu mae ni te o araimasu.,N5,Advérbio
+あとで・(verbo-た・verbo + のは・substantivo + の) あとで,"ato de, ta ato de, da ato de, no wa ato de, no ato de",depois de,宿題をしたあとで散歩した。,Shukudai o shita ato de sanpo shita.,N5,Advérbio
+とき,toki,"enquanto, no momento em que",子供が寝ているとき、静かにしてください。,"Kodomo ga nete iru toki, shizuka ni shite kudasai.",N5,Advérbio
+中（ちゅう・じゅう）,"chuu, juu","durante, enquanto, quando (algo)",勉強中に音楽を聞きました。,Benkyou chuu ni ongaku o kikimashita.,N5,Advérbio
+substantivo + ごろ・(verbo・い-adjetivo・な-adjetivo + な・substantivo + の) ころ,"goro, koro, na koro, no koro",entorno de (tempo),三時ごろ行く。,San ji goro iku.,N5,Advérbio
+なぜ・どうして,"naze, doushite",por que,どうして来なかった？,Doushite konakatta?,N5,Advérbio
+どうやって,douyatte,"como, de que forma",どうやって行きますか？,Douyatte ikimasu ka?,N5,Advérbio
+どう,dou,como,ご飯はどうですか。,Gohan wa dou desu ka.,N5,Advérbio
+いかが・いか,"ikaga, ika",como (polido),お茶はいかがですか。,Ocha wa ikaga desu ka.,N5,Advérbio
+いつ,itsu-,quando,いつ来ますか。,Itsu kimasu ka.,N5,Advérbio
+いくつ,ikutsu-,quantos,傘はいくつありますか。,Kasa wa ikutsu arimasu ka.,N5,Advérbio
+いくら,ikura-,quanto,本はいくらですか。,Hon wa ikura desu ka.,N5,Advérbio
+verbo (dicionário),-u,presente,パンを食べる。,Pan o taberu.,N5,Conjugação
+verbo + ます,masu,presente (polido),パンを食べます。,Pan o tabemasu.,N5,Conjugação
+る-verbo + ない,nai,não faz,パンを食べない。,Pan o tabenai.,N5,Conjugação
+う-verbo (ない・わない),"nai, wanai",não faz,水を飲まない。,Mizu o nomanai.,N5,Conjugação
+verbo + ません,masen,não faz (polido),水を飲みません。,Mizu o nomimasen.,N5,Conjugação
+る-verbo + た,ta,passado,パンを食べた。,Pan o tabeta.,N5,Conjugação
+verbo + ました,mashita,passado (polido),パンを食べました。,Pan o tabemashita.,N5,Conjugação
+う-verbo (った・んだ・いた・いだ・した),"tta, nda, ita, ida, shita",passado,果物を切った。,Kudamono o kitta.,N5,Conjugação
+る-verbo + なかった,nakatta,não fez,パンを食べなかった。,Pan o tabenakatta.,N5,Conjugação
+う-verbo (なかった・わなかった),"nakatta, wanakatta",não fez,果物を切らなかった。,Kudamono o kiranakatta.,N5,Conjugação
+verbo + ませんでした,masen deshita,não fez (polido),果物を切りませんでした。,Kudamono o kirimasen deshita.,N5,Conjugação
+verbo + な,na,não faça (proibição),ここで遊ぶな。,Koko de asobuna.,N5,Conjugação
+verbo + たい,tai,querer fazer,パンを食べたい。,Pan o tabetai.,N5,Conjugação
+verbo (て・って・んて・いて・いで・して),"te, tte, nde, ite, ide, shite",forma conectiva,食べて寝る。,Tabete neru.,N5,Conjugação
+verb-て + continuação,"te-, de-","e, então (ligando ações)",パンを食べて、水を飲む。,"Pan o tabete, mizu o nomu.",N5,Conjunção
+けど・(substantivo・な-adjetivo) + だけど,"kedo, dakedo","mas, porém (informal)",車は高いけど買います。,Kuruma wa takai kedo kaimasu.,N5,Conjunção
+けれども・けれど・けども,"keredomo, keredo, kedomo","mas, porem (polido)",水は冷たいですけれども、飲みます。,"Mizu wa tsumetai desu keredomo, nomimasu.",N5,Conjunção
+が,ga,"mas, porém (formal)",好きですが下手です。,Suki desu ga heta desu.,N5,Conjunção
+でも,demo,mas,雨がふっている。でも行く。,Ame ga futte iru. Demo iku.,N5,Conjunção
+しかし,shikashi,"porem, entretanto",朝ご飯を食べた。それから出かけた。,"Mainichi benkyou shimashita. Shikashi, muzukashikatta.",N5,Conjunção
+(verbo・い-adjetivo) ので・(な-adjetivo・substantivo) なので,"node, nanode","porque, então, visto que",雨なので行きません。,Ame nanode ikimasen.,N5,Conjunção
+resultado + なぜなら + causa,nazenara,"o motivo, a razão, porque",今日は外に行きません。なぜなら雨だからです。,Kyou wa soto ni ikimasen. Nazenara ame dakara desu.,N5,Conjunção
+causa (から・(substantivo・な-adjetivo) + だから),"kara, dakara","porque, já que",寒いからコートを着ます。,Samui kara kooto o kimasu.,N5,Conjunção
+から,kara,"de (origem), a partir de",日本から来ました。,Nihon kara kimashita.,N5,Conjunção
+verbo-てから,"te kara, de kara","depois de (fazer algo), após",学校が終わってから、家に帰ります。,"Gakkou ga owatte kara, ie ni kaerimasu.",N5,Conjunção
+それから,sorekara,"depois disso, e então (ordem lógica)",朝ご飯を食べた。それから出かけた。,Asagohan o tabeta. Sorekara dekaketa.,N5,Conjunção
+そして,soshite,"então, além disso",本を読んだ。そして寝た。,Hon o yonda. Soshite neta.,N5,Conjunção
+ながら,nagara,enquanto (isso acontece),友達を待ちながら、コーヒーを飲む。,"Tomodachi o machinagara, koofii o nomu.",N5,Conjunção
+よ,yo,"!, ênfase",これはおいしいよ。,Kore wa oishii yo.,N5,Expressão
+わ,wa,ênfase (normalmente feminino),今日も暑いわ。,Kyou mo atsui wa.,N5,Expressão
+ね,ne,né,今日は寒いね。,Kyou wa samui ne.,N5,Expressão
+なあ,naa,não é (confirmação),この猫はきれいだなあ。,Kono neko wa kirei da naa.,N5,Expressão
+お・ご,"o, go",honorífico,お水をください。,Omizu o kudasai.,N5,Expressão
+など,nado,"etc, isso por exemplo",野菜などを買った。,Yasai nado o katta.,N5,Expressão
+な-adjetivo + で・い-adjetivo + くて,"de, kute","e também, ambas as coisas",この部屋は静かで、綺麗です。,"Kono heya wa shizuka de, kirei desu.",N5,Expressão
+どれくらい・どれぐらい,"dore kurai, dore gurai","quanto, quão (mensurável)",村はどれくらい大きいですか。,Mura wa dore kurai ookii desu ka.,N5,Expressão
+どのくらい・どのぐらい,"dono kurai, dono gurai","quanto, quão",日本語をどのくらい勉強しましたか。,Nihongo o dono kurai benkyou shimashita ka.,N5,Expressão
+はどうですか,wa dou desu ka,"como está, que tal",この天気はどうですか？,Kono tenki wa dou desu ka?,N5,Expressão
+のなかで～がいちばん～,no naka de - ga ichiban,o mais dentre,動物の中で猫がいちばん可愛いです。,Doubutsu no naka de neko ga ichiban kawaiidesu.,N5,Expressão
+は〜より〜です,wa - yori - desu,é mais que,猫は犬より静かです。,Neko wa inu yori shizuka desu.,N5,Expressão
+より～ (verbo・い-adjetivo・な-adjetivo + な・substantivo + の) 方（ほう）が,"yori - houga, yori - na houga, yori - no houga",é que é mais,犬より猫のほうが好きです。,Inu yori neko no houga suki desu.,N5,Expressão
+誰か（だれか）,dareka,alguém,誰かが来ました。,Dareka ga kimashita.,N5,Pronome Indefinido
+誰（だれ）も・誰にも,"daremo, dare ni mo","todo mundo, qualquer um",誰も知っています。,Daremo shitteimasu.,N5,Pronome Indefinido
+誰（だれ）も～ない・誰にも～ない,"daremo -nai, dare ni mo -nai",ninguém,誰もいません。,Daremo imasen.,N5,Pronome Indefinido
+どこか,dokoka,algum lugar,どこかに行きたいです。,Dokoka ni ikitai desu.,N5,Pronome Indefinido
+どこも・どこへも・どこにも,"dokomo, doko e mo, doko ni mo","todo lugar, qualquer lugar",どこもきれいです。,Dokomo kirei desu.,N5,Pronome Indefinido
+どこも～ない・どこへも～ない・どこにも～ない,"dokomo -nai, doko e mo -nai, doko ni mo -nai",lugar nenhum,どこも見えません。,Dokomo miemasen.,N5,Pronome Indefinido
+なにか,nanika,algo,なにか食べましたか。,Nanika tabemashita ka.,N5,Pronome Indefinido
+なにも,nanimo,"tudo, qualquer coisa",なにもあります。,Nanimo arimasu.,N5,Pronome Indefinido
+なにも～ない,nanimo -nai,nada,なにも知りません。,Nanimo shirimasen.,N5,Pronome Indefinido
+は,wa,"o, em relação a (marca o tópico)",私は先生です。,Watashi wa sensei desu.,N5,Partícula
+が,ga,"sujeito, identificação",猫がいます。,Neko ga imasu.,N5,Partícula
+も,mo,"também, além disso, nem",あなたも先生です。,Anata mo sensei desu.,N5,Partícula
+を,"wo, o",objeto direto,水を飲みます。,Mizu o nomimasu.,N5,Partícula
+に,ni,"para, em, a, no, na",家に行きます。,Ie ni ikimasu.,N5,Partícula
+へ,"he, e","para, em direção a",日本へ行きます。,Nihon e ikimasu.,N5,Partícula
+で,de,"em, no, na (local de ação)",車で学校へ行きます。,Kuruma de gakkou e ikimasu.,N5,Partícula
+で (modo),de,"com, usando, por meio de",フォークで食べます。,Fooku de tabemasu.,N5,Partícula
+の + objeto,no-,de (indica relação),私の車。,Watashi no kuruma.,N5,Partícula
+の,no,possessivo (substantivo omitido),私のは赤いです。,Watashi no wa akai desu.,N5,Partícula
+と (comitativo),to,com,あなたと行きます。,Anata to ikimasu.,N5,Partícula
+か,ka,"?, interrogação (partícula de interrogação)",これは水ですか。,Kore wa mizu desu ka.,N5,Partícula
+(な-adjetivo + な・い-adjetivo + い・verbo) の,"i no, na no, -u no","aquele que, um que (nominalização)",可愛いのは私の犬です。,Kawaii no wa watashi no inu desu,N5,Referência
+～んです・のです,"n desu, no desu","é que (explicação), o fato é que (ênfase)",お腹が痛いんです。,Onaka ga itai n desu.,N5,Referência
+verbo-ている + substantivo,"te iru-, de iru-",que está,泳いでいる人がいます。,Oyoide iru hito ga imasu.,N5,Referência
+verbo-た + substantivo,"ta-, da-",que foi,作ったケーキはおいしい。,Tsukutta keeki wa oishii.,N5,Referência
+quote + と,to,"quotação, """", como",先生が「危ない！」と言いました。,"Sensei ga ""abunai!"" to iimashita.",N5,Referência
+って,tte,disse que,先生が来るって言った。,Sensei ga kuru tte itta.,N5,Referência
+と,to,e,水とお茶を飲みます。,Mizu to ocha o nomimasu.,N5,Repetição
+な-adjetivo + で・い-adjetivo + くて・substantivo + で,"de, kute",e (conjunção de adjetivos ou substantivos),この林檎は赤くて、大きいです。,"Kono ringo wa akakute, ookii desu.",N5,Repetição
+や,ya,tipo isso e isso,ごはんや肉を食べた。,Gohan ya niku o tabeta.,N5,Repetição
+verbo-たり～verbo-たりする,"tari - tarisuru, dari - darisuru",fazer isso e isso (não sequencial),食べたり、飲んだりする。,"Tabetari, nondari suru.",N5,Repetição
+verbo-て+ verbo,te - te,"depois disso, e então (sequência)",ごはんを食べて、水を飲んで、ねました。,"Gohan o tabete, mizu o nonde, nemashita.",N5,Repetição
+か (conjunção),ka,ou,水かお茶。,Mizu ka ocha.,N5,Repetição
+い-adjetivo  + substantivo,i.adj i sub,adjetivo,冷たい水をのみます。,Tsumetai mizu o nomimasu.,N5,Regra
+い-adjetivo + いです,i.adj i desu,predicado (adjetivo),ご飯は熱いです。,Gohan wa atsui desu.,N5,Regra
+な-adjetivo + な + substantivo,na.adj na sub,adjetivo (substantivo),静かな町に住んでいます。,Shizuka na machi ni sunde imasu.,N5,Regra
+な-adjetivo + です,na.adj desu,predicado (substantivo),この町は静かです。,Kono machi wa shizuka desu.,N5,Regra
+verbo + substantivo,vb sub,adjetivo (verbo ou oração),走っている人を見た。,Hashitte iru hito o mita.,N5,Regra
+は + interrogativo,ha itg,predicado interrogativo,それは何ですか。,Sorer wa nandesu ka.,N5,Regra
+interrogativo + が,itg ga,sujeito interrogativo,誰が来ますか。,Dare ga kimasu ka.,N5,Regra
+substantivo + を + transitivo verbo,sub wo trs.vb,verbo transitivo,本を読む。,Hon o yomu.,N5,Regra
+substantivo + が + instransitivo verbo,sub ga itr.vb,verbo intransitivo,窓が開く。,Mado ga aku.,N5,Regra
+partícula (は・も),"part ga, part mo","realce, focalização",家でも学校でも勉強します。,Ie de mo gakkou de mo benkyou shimasu,N5,Regra
+objeto (が・を) contador + verbo,"obj ga ct vb, obj wo ct vb",quantidade (casual),卵を四つ買った。,Tamago o yottsu katta.,N5,Regra
+contador + の + objeto,ct no obj,"quantidades, atributo",三本のえんぴつがあります。,Sanbon no enpitsu ga arimasu.,N5,Regra
+する,suru,verbalização,私は英語を勉強する。,Watashi wa eigo o benkyou suru.,N5,Verbo
+(な-adjetivo・substantivo) にする,ni suru,"fazer (algo), fazer (ficar de certa forma)",部屋をきれいにする。,Heya o kirei ni suru.,N5,Verbo
+い-adjetivo + くする,ku suru,fazer (ficar de certa forma),部屋を明るくする。,Heya o akaruku suru.,N5,Verbo
+(は・が・も) substantivo + にする,"wa - ni suru, ga - ni suru, mo - ni suru","decidir (algo), escolher (algo)",飲み物は水にする。,Nomimono wa mizu ni suru.,N5,Verbo
+(は・が・も) substantivo + とする,"wa - to suru, ga - to suru, mo - to suru",pode ser (algo),私は果物とする。,Watashi wa kudamono to suru.,N5,Verbo
+がある,ga aru,"há, tem, exite (ser inanimado)",机の上に本がある。,Tsukue no ue ni hon ga aru.,N5,Verbo
+(が・の) ある + substantivo,"ga aru-, no aru-","que tem, com",花のある公園に行きたい。,Hana no aru kouen ni ikitai.,N5,Verbo
+verbo-てある,"te aru, de aru",está (feito),ドアが開けてある。,Doa ga akete aru.,N5,Verbo
+がいる,ga iru,"há, tem, exite (ser animado)",家に犬がいる。,Ie ni inu ga iru.,N5,Verbo
+(alguns) substantivo + にいく,ni iku,ir fazer tal coisa,買い物に行く。,Kaimono ni iku.,N5,Verbo
+へいく,e iku,dirigir-se a (fazer),学校へ行く。,Gakkou e iku.,N5,Verbo
+(な-adjetivo・substantivo) になる,ni naru,se tornar (algo),子どもが先生になる。,Kodomo ga sensei ni naru.,N5,Verbo
+い-adjetivo + くなる,ku naru,se tornar (qualidade),天気が寒くなる。,Tenki ga samuku naru.,N5,Verbo
+すぎる,sugiru,"demais, muito",このお茶は美味しすぎる。,Kono ocha wa oishii sugiru.,N5,Verbo
+なすぎる・なさすぎる,"na sugiru, nasa sugiru",não é muito,私はお金がなさすぎる。,Watashi wa okane ga nasa sugiru,N5,Verbo
+と言う（いう）,to iu,"se chama, conhecido como, dizem que",この犬はシロという名前です。,Kono inu wa shiro to iu namae desu.,N5,Verbo
+(de に・para は・が) あげる,ageru,dar (algo),母に花をあげる。,Haha ni hana o ageru.,N5,Verbo
+(de に・para は・が) くれる,kureru,"dar para mim, dar para (alguém mais próximo de mim)",兄が本をくれる。,Ani ga hon o kureru.,N5,Verbo
+(para は・が・de に・から) もらう,morau,receber,友だちから手紙をもらう。,Tomodachi kara tegami o morau.,N5,Verbo
+だ,da,é,これは水だ。,Kore wa mizu da.,N5,Variação de Verbo
+です,desu,é (polido),これは水です。,Kore wa mizu desu.,N5,Variação de Verbo
+だった,datta,era,あれは古い車だった。,Are wa furui kuruma datta.,N5,Variação de Verbo
+でした,deshita,era (polido),あれは古い車でした。,Are wa furui kuruma deshita.,N5,Variação de Verbo
+ではない・じゃない,"de wa nai, janai",não é,これは水じゃない。,Kore wa mizu janai.,N5,Variação de Verbo
+ではありません,de wa arimasen,não é (polido),これは水ではありません。,Kore wa mizu de wa arimasen.,N5,Variação de Verbo
+ではなかった・じゃなかった,"de wa nakatta, janakatta",não era,それは車じゃなかった。,Sore wa kuruma janakatta.,N5,Variação de Verbo
+ではありませんでした,de wa arimasen deshita,não era (polido),それは車ではありませんでした。,Sore wa kuruma de wa arimasen deshita.,N5,Variação de Verbo
+だろう,darou,certo?,外は寒いだろう。,Soto wa samui darou.,N5,Variação de Verbo
+でしょう,deshou,certo? (polido),山は静かでしょう。,Yama wa shizuka deshou.,N5,Variação de Verbo
+ませんか,masen ka,não vai (fazer?),公園で遊びませんか。,Kouen de asobimasen ka.,N5,Variação de Verbo
+ましょう,mashou,vamos (fazer) (polido),一緒に行きましょう。,Issho ni ikimashou.,N5,Variação de Verbo
+～ましょうか,mashou ka,podemos (fazer algo),一緒に行きましょうか。,Issho ni ikimashou ka.,N5,Variação de Verbo
+たほうがいい,ta houga ii,é melhor (fazer),水を飲んだほうがいいです。,Mizu o nonda houga ii desu.,N5,Variação de Verbo
+ないほうがいい,nai houga ii,é melhor não (fazer),ここで食べないほうがいいです。,Koko de tabenai houga ii desu.,N5,Variação de Verbo
+方（かた）,kata,"a forma de, como se faz",ごはんの炊き方をおしえてください。,Gohan no takikata o oshiete kudasai.,N5,Variação de Verbo
+ないで,naide,sem fazer,朝ごはんを食べないで出かけました。,Asagohan o tabenaide dekakemashita.,N5,Variação de Verbo
+をください,o kudasai,me dê por favor,パンをください。,Pan o kudasai.,N5,Variação de Verbo
+てください,te kudasai,faça por favaor,窓を開けてください。,Mado o akete kudasai.,N5,Variação de Verbo
+ないでください,naide kudasai,não faça por favor,本を読まないでください。,Hon o yomanai de kudasai.,N5,Variação de Verbo
+(substantivo + を・verbo-て) くださいませんか,"o kudasai masen ka, te kudasai masen ka, de kudasai masen ka",você poderia por favor (fazer?),本を貸してくださいませんか。,Hon o kashite kudasaimasen ka.,N5,Variação de Verbo
+なくてはだめ,nakute wa dame,"deve, precisa (fazer) (informal)",早く行かなくてはだめ。,Hayaku ikanakute wa dame.,N5,Variação de Verbo
+なくちゃだめ,nakucha dame,"deve, precisa (fazer) (informal falado)",勉強しなくちゃだめ。,Benkyou shinakucha dame.,N5,Variação de Verbo
+ないとだめ,nai to dame,deve (fazer) (obrigação) (informal),薬を飲まないとだめ。,Kusuri o nomanai to dame.,N5,Variação de Verbo
+verbo-てはだめ,"te wa dame, de wa dame","não deve, não precisa (fazer) (informal)",ここで遊んではだめ。,Koko de asonde wa dame.,N5,Variação de Verbo
+じゃだめ・ちゃだめ,"cha dame, ja dame","não deve, não precisa (fazer) (informal falado)",この本を読んじゃだめ。,Kono hon o yonja dame.,N5,Variação de Verbo
+てある,te aru,foi (feito) (está no estado de),ドアが閉めてあります。,Doa ga shimete arimasu.,N5,Combinação de Verbos
+verbo-たことがある,"ta koto ga aru, da koto ga aru",já fez antes,果物を食べたことがある。,Kudamono o tabeta koto ga aru.,N5,Combinação de Verbos
+verbo-ている,"te iru, de iru, te ru, de ru",está (fazendo),ご飯を食べている。,Gohan o tabeteiru.,N5,Combinação de Verbos
+verbo adjetival-ている,"te iru, de iru, te ru, de ru",está (existe no estado de),猫が座っている。,Neko ga suwatte iru.,N5,Combinação de Verbos
+verbo-ている・とる,"te iru, de iru, te ru, de ru, to ru",está (fazendo cotidianamente),毎朝走っている。,Maiasa hashitte iru.,N5,Combinação de Verbos
+verbo + にいく,ni iku,"ir fazer, ir para fazer",公園へ遊びにいく。,Kouen e asobi ni iku,N5,Combinação de Verbos
+verbo-てはいけない,"te wa ikenai, de wa ikenai","não deve, não precisa (fazer)",ここで遊んではいけない。,Koko de asonde wa ikenai.,N5,Combinação de Verbos
+ちゃいけない・じゃいけない,"cha ikenai, ja ikenai","não deve, não precisa (fazer) (falado)",教室で食べちゃいけない。,Kyoushitsu de tabetcha ikenai.,N5,Combinação de Verbos
+なくてはいけない,nakute wa ikenai,"deve, precisa (fazer) (dupla negação)",野菜を食べなくてはいけない。,Yasai o tabenakute wa ikenai.,N5,Combinação de Verbos
+なくちゃいけない,nakucha ikenai,"deve, precisa (fazer) (dupla negação) (falado)",宿題をしなくちゃいけない。,Shukudai o shinakucha ikenai.,N5,Combinação de Verbos
+なくちゃ・なきゃ,"nakucha, nakya","deve, precisa (fazer) (informal)",行かなくちゃ。,Ikanakucha.,N5,Combinação de Verbos
+なくてはならない,nakute wa naranai,"deve, precisa (fazer) (dupla negação) (formal)",水を飲まなくてはならない。,Mizu o nomanakute wa naranai.,N5,Combinação de Verbos
+ないといけない,nai to ikenai,deve (fazer) (obrigação),宿題をしないと行けない。,Shukudai o shinai to ikenai.,N5,Combinação de Verbos
+つもりだ,tsumori da,planejar (fazer),日本に行くつもりだ。,Nihon ni iku tsumori da.,N5,Combinação de Verbos
+つもりはない・つもりじゃない,"tsumori de wa nai, tsumori janai",não pretender (fazer),学校に行くつもりはない。,Gakkou ni iku tsumori wa nai.,N5,Combinação de Verbos
+つもりがない,tsumori ga nai,não ter intenção,私は歩くつもりがない。,Watashi wa aruku tsumori ga nai.,N5,Combinação de Verbos
+〜たち,-tachi,"plural, grupo de",子どもたちが遊びます。,Kodomotachi ga asobimasu.,N5,Palavra
+〜方（がた）,-gata,plural (honorífico) (título ou cargo),先生方は図書館にいます。,Senseigata wa toshokan ni imasu.,N5,Palavra
+pronome + ら,-ra,pronome plural (informal),私らは友達です。,Watashira wa tomodachi desu.,N5,Palavra
+número + 人（にん・り）,"-nin, -ri",pessoas (contador),学校に三人います。,Gakkou ni san'nin imasu.,N5,Palavra
+número + (歳・才)（さい）,-sai,idade (contador),私は十五歳です。,Watashi wa juugosai desu.,N5,Palavra
+número + 匹（ひき・びき・ぴき）,"-hiki, -biki, -piki",animais pequenos (contador),庭に二匹の猫がいます。,Niwa ni nihiki no neko ga imasu.,N5,Palavra
+número + 個（こ）,-ko,"coisas pequenas, coisas redondas (contador)",机にりんごが五個あります。,Tsukue ni ringo ga goko arimasu.,N5,Palavra
+número + 枚（まい）,-mai,plano e fino (objeto) (contador),紙を三枚ください。,Kami o sanmai kudasai.,N5,Palavra
+número + 本（ほん・ぼん・ぽん）,"-hon, -bon, -pon",longo e fino (objeto) (contador),ペンを一本買った。,Pen o ippon katta.,N5,Palavra
+número + 冊（さつ）,-satsu,"livros, encadernado (objeto) (contador)",本を二冊読んだ。,Hon o nisatsu yonda.,N5,Palavra
+número + 時（じ）,-ji,horário (contador),九時に起きる。,Kuji ni okiru.,N5,Palavra
+número + 時半（じはん）,-jihan,horas e meia (contador),八時半に寝る。,Hachijihan ni neru.,N5,Palavra
+número + 時間（じかん）,-jikan,horas (contador),二時間勉強する。,Nijikan benkyou suru.,N5,Palavra
+número + 分前（ぷん・ふん）,"-pun, -hun",minutos (contador),五分前に来た。,Go fun mae ni kita.,N5,Palavra

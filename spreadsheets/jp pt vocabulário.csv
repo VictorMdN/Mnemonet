@@ -1,0 +1,671 @@
+﻿Expressão,Escrita,Kana,Romaji,Português,Filter-Grupo,Filter-Nível
+其れから,それから,それから,sorekara,"depois disso, então",Conjunção,JLPT N5
+其れでは,それでは,それでは,soredewa,"nesse caso, então, bem",Conjunção,JLPT N5
+でも,でも,でも,demo,"mas, porém",Conjunção,JLPT N5
+然し,しかし,しかし,shikashi,"contudo, entretanto",Conjunção,JLPT N5
+然して,そして,そして,soshite,"e então, além disso",Conjunção,JLPT N5
+然うして,そうして,そうして,soushite,"desse modo, então",Conjunção,JLPT N5
+ええ,ええ,ええ,ee,"sim (informal), certo",Outros,JLPT N5
+あのう,あのう,あのう,anou,"bem (...), então (... hesitação)",Outros,JLPT N5
+さあ,さあ,さあ,saa,"vamos lá, bem (... incentivo ou hesitação)",Outros,JLPT N5
+等,など,など,nado,etc,Outros,JLPT N5
+私,私,わたし,watashi,eu,Estrutural,JLPT N5
+誰か,誰か,だれか,dareka,alguém,Estrutural,JLPT N5
+貴方,あなた,あなた,anata,você,Estrutural,JLPT N5
+何方,どなた,どなた,donata,quem (formal),Estrutural,JLPT N5
+誰,誰,だれ,dare,quem,Estrutural,JLPT N5
+此れ,これ,これ,kore,isto,Estrutural,JLPT N5
+其れ,それ,それ,sore,isso,Estrutural,JLPT N5
+彼,あれ,あれ,are,aquilo,Estrutural,JLPT N5
+何れ,どれ,どれ,dore,qual (de vários),Estrutural,JLPT N5
+此の,この,この,kono,este,Estrutural,JLPT N5
+其の,その,その,sono,esse,Estrutural,JLPT N5
+彼の,あの,あの,ano,aquele,Estrutural,JLPT N5
+何の,どの,どの,dono,que (antes de substantivo),Estrutural,JLPT N5
+此処,ここ,ここ,koko,aqui,Estrutural,JLPT N5
+其処,そこ,そこ,soko,aí,Estrutural,JLPT N5
+彼処,あそこ,あそこ,asoko,ali,Estrutural,JLPT N5
+何処,どこ,どこ,doko,onde,Estrutural,JLPT N5
+向こう,向こう,むこう,mukou,lá (do outro lado),Estrutural,JLPT N5
+此方,こちら,こちら,kochira,este lado,Estrutural,JLPT N5
+其方,そちら,そちら,sochira,esse lado,Estrutural,JLPT N5
+彼方,あちら,あちら,achira,aquele lado,Estrutural,JLPT N5
+何方,どちら,どちら,dochira,qual lado,Estrutural,JLPT N5
+他,他,ほか,hoka,outro,Estrutural,JLPT N5
+何,何,なに,nani,o que,Estrutural,JLPT N5
+何時,いつ,いつ,itsu,quando,Estrutural,JLPT N5
+幾つ,いくつ,いくつ,ikutsu,quantos (coisas),Estrutural,JLPT N5
+幾ら,いくら,いくら,ikura,quanto (preço),Estrutural,JLPT N5
+何故,なぜ,なぜ,naze,por que (racional),Estrutural,JLPT N5
+如何して,どうして,どうして,doushite,por que (emocional),Estrutural,JLPT N5
+来る,来る,くる,kuru,vir,Estrutural,JLPT N5
+為る,する,する,suru,fazer,Estrutural,JLPT N5
+今,今,いま,ima,agora,Advérbio,JLPT N5
+前,前,まえ,mae,"antes, na frente",Advérbio,JLPT N5
+後,後,あと,ato,depois,Advérbio,JLPT N5
+未だ,まだ,まだ,mada,ainda (não),Advérbio,JLPT N5
+もう,もう,もう,mou,"já, mais, de novo",Advérbio,JLPT N5
+直ぐに,すぐに,すぐに,suguni,"imediatamente, logo",Advérbio,JLPT N5
+初めて,初めて,はじめて,hajimete,primeira vez,Advérbio,JLPT N5
+もう一度,もう一度,もういちど,mou ichido,mais uma vez,Advérbio,JLPT N5
+一寸,一寸,ちょっと,chotto,um momento,Advérbio,JLPT N5
+時々,時々,ときどき,tokidoki,às vezes,Advérbio,JLPT N5
+良く,よく,よく,yoku,"bem, frequentemente",Advérbio,JLPT N5
+何時も,いつも,いつも,itsumo,sempre,Advérbio,JLPT N5
+又,また,また,mata,"de novo, também",Advérbio,JLPT N5
+はい,はい,はい,hai,sim,Advérbio,JLPT N5
+否,いいえ,いいえ,iie,não,Advérbio,JLPT N5
+多分,多分,たぶん,tabun,provavelmente,Advérbio,JLPT N5
+どうぞ,どうぞ,どうぞ,douzo,por favor (ao oferecer algo),Advérbio,JLPT N5
+どうも,どうも,どうも,doumo,de alguma forma,Advérbio,JLPT N5
+より,より,より,yori,"do que (comparativo), a partir de",Advérbio,JLPT N5
+同じ,同じ,おなじ,onaji,"igual, mesmo, idêntico",Advérbio,JLPT N5
+丁度,ちょうど,ちょうど,choudo,exatamente,Advérbio,JLPT N5
+余り,あまり,あまり,amari,não muito (usado com negação),Advérbio,JLPT N5
+少し,少し,すこし,sukoshi,um pouco,Advérbio,JLPT N5
+結構,結構,けっこう (ていどたかい),kekkou (teido takai),"suficiente, bastante",Advérbio,JLPT N5
+沢山,たくさん,たくさん,takusan,bastante,Advérbio,JLPT N5
+迚も,とても,とても,totemo,muito,Advérbio,JLPT N5
+もっと,もっと,もっと,motto,mais,Advérbio,JLPT N5
+近く,近く,ちかく,chikaku,perto (advérbio),Advérbio,JLPT N5
+段々,だんだん,だんだん,dandan,gradualmente,Advérbio,JLPT N5
+真っ直ぐ,まっすぐ,まっすぐ,massugu,diretamente,Advérbio,JLPT N5
+ゆっくり,ゆっくり,ゆっくり,yukkuri,"devagar, com calma",Advérbio,JLPT N5
+好き,好き,すき,suki,gostar,Adjetivo,JLPT N5
+大好き,大好き,だいすき,daisuki,"adorar, amar",Adjetivo,JLPT N5
+嫌い,嫌い,きらい,kirai,"não gostar, odiar",Adjetivo,JLPT N5
+嫌,嫌,いや,iya,"detestável, desagradável",Adjetivo,JLPT N5
+色々,いろいろ,いろいろ,iroiro,"vários, diversos",Adjetivo,JLPT N5
+大変,大変,たいへん,taihen,"sério, imenso",Adjetivo,JLPT N5
+大丈夫,大丈夫,だいじょうぶ,daijoubu,tudo bem,Adjetivo,JLPT N5
+元気,元気,げんき,genki,"animado, enérgico",Adjetivo,JLPT N5
+上手,上手,じょうず,jouzu,hábilidoso,Adjetivo,JLPT N5
+下手,下手,へた,heta,ruim (em algo),Adjetivo,JLPT N5
+立派,立派,りっぱ,rippa,esplêndido,Adjetivo,JLPT N5
+丈夫,丈夫,じょうぶ,joubu,"saudável, resistente",Adjetivo,JLPT N5
+大切,大切,たいせつ,taisetsu,"importante, precioso",Adjetivo,JLPT N5
+有名,有名,ゆうめい,yuumei,famoso,Adjetivo,JLPT N5
+綺麗,きれい,きれい,kirei,bonito,Adjetivo,JLPT N5
+便利,便利,べんり,benri,"conveniente, prático",Adjetivo,JLPT N5
+賑やか,賑やか,にぎやか,nigiyaka,movimentado,Adjetivo,JLPT N5
+静か,静か,しずか,shizuka,"quieto, silencioso",Adjetivo,JLPT N5
+大きな,大きな,おおきな,ookina,grande (antes de substantivo),Adjetivo,JLPT N5
+小さな,小さな,ちいさな,chiisana,pequeno (antes de substantivo),Adjetivo,JLPT N5
+良い,"よい, いい","よい, いい","yoi, ii",bom,Adjetivo-i,JLPT N5
+悪い,悪い,わるい,warui,"ruim, mau",Adjetivo-i,JLPT N5
+多い,多い,おおい,ooi,"muito, numerosos",Adjetivo-i,JLPT N5
+少ない,少ない,すくない,sukunai,"pouco, escasso",Adjetivo-i,JLPT N5
+下さい,ください,ください,kudasai,por favor (pedido),Adjetivo-i,JLPT N5
+青い,青い,あおい,aoi,azul (adjetivo),Adjetivo-i,JLPT N5
+赤い,赤い,あかい,akai,vermelho (adjetivo),Adjetivo-i,JLPT N5
+黄色い,黄色い,きいろい,kiiroi,amarelo (adjetivo),Adjetivo-i,JLPT N5
+黒い,黒い,くろい,kuroi,preto (adjetivo),Adjetivo-i,JLPT N5
+白い,白い,しろい,shiroi,branco (adjetivo),Adjetivo-i,JLPT N5
+明るい,明るい,あかるい,akarui,"claro, iluminado",Adjetivo-i,JLPT N5
+暗い,暗い,くらい,kurai,"escuro, sombrio",Adjetivo-i,JLPT N5
+大きい,大きい,おおきい,ookii,grande,Adjetivo-i,JLPT N5
+小さい,小さい,ちいさい,chiisai,pequeno,Adjetivo-i,JLPT N5
+低い,低い,ひくい,hikui,baixo (altura),Adjetivo-i,JLPT N5
+厚い,厚い,あつい,atsui,"grosso, espesso",Adjetivo-i,JLPT N5
+薄い,薄い,うすい,usui,"fino, ralo",Adjetivo-i,JLPT N5
+太い,太い,ふとい,futoi,grosso (largura),Adjetivo-i,JLPT N5
+細い,細い,ほそい,hosoi,"fino, magro",Adjetivo-i,JLPT N5
+広い,広い,ひろい,hiroi,"amplo, espaçoso",Adjetivo-i,JLPT N5
+狭い,狭い,せまい,semai,estreito,Adjetivo-i,JLPT N5
+近い,近い,ちかい,chikai,perto (adjetivo),Adjetivo-i,JLPT N5
+遠い,遠い,とおい,tooi,longe,Adjetivo-i,JLPT N5
+長い,長い,ながい,nagai,longo,Adjetivo-i,JLPT N5
+短い,短い,みじかい,mijikai,curto,Adjetivo-i,JLPT N5
+新しい,新しい,あたらしい,atarashii,novo,Adjetivo-i,JLPT N5
+若い,若い,わかい,wakai,jovem,Adjetivo-i,JLPT N5
+古い,古い,ふるい,furui,velho (objeto),Adjetivo-i,JLPT N5
+早い,早い,はやい,hayai,"cedo, antecipado, rápido",Adjetivo-i,JLPT N5
+遅い,遅い,おそい,osoi,"devagar, atrasado, lento",Adjetivo-i,JLPT N5
+軽い,軽い,かるい,karui,leve,Adjetivo-i,JLPT N5
+重い,重い,おもい,omoi,pesado,Adjetivo-i,JLPT N5
+熱い,熱い,あつい,atsui,quente (ao toque),Adjetivo-i,JLPT N5
+温い,ぬるい,ぬるい,nurui,morno (ao toque),Adjetivo-i,JLPT N5
+冷たい,冷たい,つめたい,tsumetai,frio (ao toque),Adjetivo-i,JLPT N5
+暑い,暑い,あつい,atsui,quente (clima),Adjetivo-i,JLPT N5
+暖かい,暖かい,あたたかい,atatakai,morno (clima),Adjetivo-i,JLPT N5
+涼しい,涼しい,すずしい,suzushii,fresco (clima),Adjetivo-i,JLPT N5
+寒い,寒い,さむい,samui,frio (clima),Adjetivo-i,JLPT N5
+安い,安い,やすい,yasui,barato,Adjetivo-i,JLPT N5
+高い,高い,たかい,takai,"caro, alto",Adjetivo-i,JLPT N5
+強い,強い,つよい,tsuyoi,forte,Adjetivo-i,JLPT N5
+弱い,弱い,よわい,yowai,fraco,Adjetivo-i,JLPT N5
+速い,速い,はやい,hayai,rápido (velocidade),Adjetivo-i,JLPT N5
+美味しい,おいしい,おいしい,oishii,delicioso,Adjetivo-i,JLPT N5
+甘い,甘い,あまい,amai,doce,Adjetivo-i,JLPT N5
+辛い,辛い,からい,karai,"picante, salgado",Adjetivo-i,JLPT N5
+不味い,まずい,まずい,mazui,ruim (sabor),Adjetivo-i,JLPT N5
+可愛い,かわいい,かわいい,kawaii,"fofo, adorável",Adjetivo-i,JLPT N5
+丸い,丸い,まるい,marui,redondo,Adjetivo-i,JLPT N5
+汚い,汚い,きたない,kitanai,"sujo, bagunçado",Adjetivo-i,JLPT N5
+欲しい,欲しい,ほしい,hoshii,desejado,Adjetivo-i,JLPT N5
+楽しい,楽しい,たのしい,tanoshii,divertido,Adjetivo-i,JLPT N5
+忙しい,忙しい,いそがしい,isogashii,"ocupado, atarefado",Adjetivo-i,JLPT N5
+面白い,面白い,おもしろい,omoshiroi,"interessante, engraçado",Adjetivo-i,JLPT N5
+詰らない,つまらない,つまらない,tsumaranai,"chato, entediante",Adjetivo-i,JLPT N5
+煩い,うるさい,うるさい,urusai,"barulhento, irritante",Adjetivo-i,JLPT N5
+難しい,難しい,むずかしい,muzukashii,difícil,Adjetivo-i,JLPT N5
+易しい,やさしい,やさしい,yasashii,"fácil, gentil",Adjetivo-i,JLPT N5
+危ない,危ない,あぶない,abunai,perigoso,Adjetivo-i,JLPT N5
+痛い,痛い,いたい,itai,dolorido,Adjetivo-i,JLPT N5
+食べる,食べる,たべる,taberu,comer,Verbo Ichidan,JLPT N5
+寝る,寝る,ねる,neru,dormir,Verbo Ichidan,JLPT N5
+起きる,起きる,おきる,okiru,"acordar, levantar",Verbo Ichidan,JLPT N5
+勤める,勤める,つとめる,tsutomeru,trabalhar (emprego),Verbo Ichidan,JLPT N5
+浴びる,浴びる,あびる,abiru,tomar (banho ou sol),Verbo Ichidan,JLPT N5
+開ける,開ける,あける,akeru,abrir,Verbo Ichidan,JLPT N5
+閉める,閉める,しめる,shimeru,fechar,Verbo Ichidan,JLPT N5
+上げる,上げる,あげる,ageru,"aumentar, levantar",Verbo Ichidan,JLPT N5
+掛ける,かける,かける,kakeru,"pendurar, ligar (telefone)",Verbo Ichidan,JLPT N5
+入れる,入れる,いれる,ireru,"colocar, inserir",Verbo Ichidan,JLPT N5
+並べる,並べる,ならべる,naraberu,"alinhar, organizar",Verbo Ichidan,JLPT N5
+着る,着る,きる,kiru,vestir,Verbo Ichidan,JLPT N5
+付ける,付ける,つける,tsukeru,"acender, ligar (algo)",Verbo Ichidan,JLPT N5
+締める,締める,しめる,shimeru,cerrar,Verbo Ichidan,JLPT N5
+見る,見る,みる,miru,"ver, olhar",Verbo Ichidan,JLPT N5
+見せる,見せる,みせる,miseru,mostrar,Verbo Ichidan,JLPT N5
+覚える,覚える,おぼえる,oboeru,"lembrar, memorizar",Verbo Ichidan,JLPT N5
+忘れる,忘れる,わすれる,wasureru,esquecer,Verbo Ichidan,JLPT N5
+教える,教える,おしえる,oshieru,"ensinar, informar",Verbo Ichidan,JLPT N5
+降りる,降りる,おりる,oriru,descer,Verbo Ichidan,JLPT N5
+出かける,出かける,でかける,dekakeru,sair (de casa ou para passeio),Verbo Ichidan,JLPT N5
+出る,出る,でる,deru,"sair, aparecer",Verbo Ichidan,JLPT N5
+着く,着く,つく,tsuku,chegar,Verbo Ichidan,JLPT N5
+生まれる,生まれる,うまれる,umareru,nascer,Verbo Ichidan,JLPT N5
+居る,居る,いる,iru,"estar, existir (seres animados)",Verbo Ichidan,JLPT N5
+消える,消える,きえる,kieru,"desaparecer, sumir",Verbo Ichidan,JLPT N5
+出来る,できる,できる,dekiru,"conseguir, ser possível",Verbo Ichidan,JLPT N5
+疲れる,疲れる,つかれる,tsukareru,ficar cansado,Verbo Ichidan,JLPT N5
+借りる,借りる,かりる,kariru,"pegar emprestado, alugar",Verbo Ichidan,JLPT N5
+答える,答える,こたえる,kotaeru,responder,Verbo Ichidan,JLPT N5
+晴れる,晴れる,はれる,hareru,"fazer sol, clarear",Verbo Ichidan,JLPT N5
+言う,言う,いう,iu,dizer,Verbo Godan,JLPT N5
+書く,書く,かく,kaku,escrever,Verbo Godan,JLPT N5
+話す,話す,はなす,hanasu,"falar, conversar",Verbo Godan,JLPT N5
+呼ぶ,呼ぶ,よぶ,yobu,chamar,Verbo Godan,JLPT N5
+読む,読む,よむ,yomu,ler,Verbo Godan,JLPT N5
+聞く,聞く,きく,kiku,"ouvir, perguntar",Verbo Godan,JLPT N5
+頼む,頼む,たのむ,tanomu,"pedir, solicitar",Verbo Godan,JLPT N5
+開く,開く,あく,aku,ser aberto,Verbo Godan,JLPT N5
+閉まる,閉まる,しまる,shimaru,ser fechado,Verbo Godan,JLPT N5
+置く,置く,おく,oku,"colocar, pôr",Verbo Godan,JLPT N5
+押す,押す,おす,osu,empurrar,Verbo Godan,JLPT N5
+消す,消す,けす,kesu,"apagar, desligar",Verbo Godan,JLPT N5
+出す,出す,だす,dasu,"tirar, enviar",Verbo Godan,JLPT N5
+入る,入る,はいる,hairu,entrar,Verbo Godan,JLPT N5
+引く,引く,ひく,hiku,"puxar, atrair",Verbo Godan,JLPT N5
+遊ぶ,遊ぶ,あそぶ,asobu,"brincar, se divertir",Verbo Godan,JLPT N5
+洗う,洗う,あらう,arau,lavar,Verbo Godan,JLPT N5
+差す,差す,さす,sasu,"apontar, estender, armar (o guarda-chuva)",Verbo Godan,JLPT N5
+吸う,吸う,すう,suu,"aspirar, fumar",Verbo Godan,JLPT N5
+座る,座る,すわる,suwaru,sentar,Verbo Godan,JLPT N5
+立つ,立つ,たつ,tatsu,"ficar de pé, levantar",Verbo Godan,JLPT N5
+脱ぐ,脱ぐ,ぬぐ,nugu,"despir, tirar (roupa)",Verbo Godan,JLPT N5
+飲む,飲む,のむ,nomu,beber,Verbo Godan,JLPT N5
+磨く,磨く,みがく,migaku,"polir, escovar",Verbo Godan,JLPT N5
+休む,休む,やすむ,yasumu,"descansar, folgar",Verbo Godan,JLPT N5
+吹く,吹く,ふく,fuku,soprar,Verbo Godan,JLPT N5
+張る,張る,はる,haru,"estender, colar",Verbo Godan,JLPT N5
+切る,切る,きる,kiru,cortar,Verbo Godan,JLPT N5
+歩く,歩く,あるく,aruku,caminhar,Verbo Godan,JLPT N5
+行く,行く,いく,iku,ir,Verbo Godan,JLPT N5
+帰る,帰る,かえる,kaeru,"voltar, regressar",Verbo Godan,JLPT N5
+飛ぶ,飛ぶ,とぶ,tobu,voar,Verbo Godan,JLPT N5
+止まる,止まる,とまる,tomaru,ser parado,Verbo Godan,JLPT N5
+上る,上る,のぼる,noboru,subir,Verbo Godan,JLPT N5
+乗る,乗る,のる,noru,"se locomover, andar (em transporte)",Verbo Godan,JLPT N5
+走る,走る,はしる,hashiru,correr,Verbo Godan,JLPT N5
+曲がる,曲がる,まがる,magaru,virar,Verbo Godan,JLPT N5
+渡る,渡る,わたる,wataru,"atravessar, cruzar",Verbo Godan,JLPT N5
+泳ぐ,泳ぐ,およぐ,oyogu,nadar,Verbo Godan,JLPT N5
+売る,売る,うる,uru,vender,Verbo Godan,JLPT N5
+買う,買う,かう,kau,comprar,Verbo Godan,JLPT N5
+返す,返す,かえす,kaesu,devolver,Verbo Godan,JLPT N5
+貸す,貸す,かす,kasu,"emprestar, alugar",Verbo Godan,JLPT N5
+取る,取る,とる,toru,"pegar, tomar",Verbo Godan,JLPT N5
+渡す,渡す,わたす,watasu,"entregar, passar",Verbo Godan,JLPT N5
+歌う,歌う,うたう,utau,cantar,Verbo Godan,JLPT N5
+撮る,撮る,とる,toru,tirar (foto),Verbo Godan,JLPT N5
+弾く,弾く,ひく,hiku,tocar (instrumento de corda),Verbo Godan,JLPT N5
+有る,ある,ある,aru,"estar, existir (coisas inanimadas)",Verbo Godan,JLPT N5
+要る,いる,いる,iru,"precisar, necessitar",Verbo Godan,JLPT N5
+掛かる,かかる,かかる,kakaru,levar (tempo),Verbo Godan,JLPT N5
+死ぬ,死ぬ,しぬ,shinu,morrer,Verbo Godan,JLPT N5
+住む,住む,すむ,sumu,morar,Verbo Godan,JLPT N5
+使う,使う,つかう,tsukau,usar,Verbo Godan,JLPT N5
+作る,作る,つくる,tsukuru,"fazer, criar, preparar",Verbo Godan,JLPT N5
+働く,働く,はたらく,hataraku,trabalhar,Verbo Godan,JLPT N5
+持つ,持つ,もつ,motsu,"ter, segurar, carregar",Verbo Godan,JLPT N5
+会う,会う,あう,au,encontrar (ver),Verbo Godan,JLPT N5
+待つ,待つ,まつ,matsu,esperar,Verbo Godan,JLPT N5
+知る,知る,しる,shiru,"saber, conhecer",Verbo Godan,JLPT N5
+習う,習う,ならう,narau,aprender,Verbo Godan,JLPT N5
+分かる,わかる,わかる,wakaru,"entender, compreender",Verbo Godan,JLPT N5
+終わる,終わる,おわる,owaru,"terminar, acabar",Verbo Godan,JLPT N5
+成る,なる,なる,naru,se tornar,Verbo Godan,JLPT N5
+始まる,始まる,はじまる,hajimaru,começar (algo começa),Verbo Godan,JLPT N5
+並ぶ,並ぶ,ならぶ,narabu,estar alinhado,Verbo Godan,JLPT N5
+困る,困る,こまる,komaru,"ficar em apuros, se preocupar",Verbo Godan,JLPT N5
+無くす,なくす,なくす,nakusu,"perder, eliminar",Verbo Godan,JLPT N5
+違う,違う,ちがう,chigau,"errar, ser diferente",Verbo Godan,JLPT N5
+曇る,曇る,くもる,kumoru,"nublar, ficar nublado",Verbo Godan,JLPT N5
+咲く,咲く,さく,saku,florescer,Verbo Godan,JLPT N5
+鳴く,鳴く,なく,naku,"cantar (animal), falar, chorar",Verbo Godan,JLPT N5
+降る,降る,ふる,furu,cair (chuva ou neve),Verbo Godan,JLPT N5
+一,一,いち,ichi,um,Número Tempo,JLPT N5
+二,二,に,ni,dois,Número Tempo,JLPT N5
+三,三,さん,san,três,Número Tempo,JLPT N5
+四,四,よん,yon,quatro,Número Tempo,JLPT N5
+五,五,ご,go,cinco,Número Tempo,JLPT N5
+六,六,ろく,roku,seis,Número Tempo,JLPT N5
+七,七,なな,nana,sete,Número Tempo,JLPT N5
+八,八,はち,hachi,oito,Número Tempo,JLPT N5
+九,九,きゅう,kyuu,nove,Número Tempo,JLPT N5
+十,十,じゅう,juu,dez,Número Tempo,JLPT N5
+百,百,ひゃく,hyaku,cem,Número Tempo,JLPT N5
+千,千,せん,sen,mil,Número Tempo,JLPT N5
+万,万,まん,man,dez mil,Número Tempo,JLPT N5
+零,零,れい,rei,zero (formal),Número Tempo,JLPT N5
+ゼロ,ゼロ,ゼロ,zero,zero (informal),Número Tempo,JLPT N5
+番号,番号,ばんごう,bangou,número,Número Tempo,JLPT N5
+半分,半分,はんぶん,hanbun,metade,Número Tempo,JLPT N5
+半,半,はん,han,meio,Número Tempo,JLPT N5
+一番,一番,いちばん,ichiban,número um (expressão),Número Tempo,JLPT N5
+一つ,一つ,ひとつ,hitotsu,"primeiro, um (coisa)",Número Tempo,JLPT N5
+二つ,二つ,ふたつ,futatsu,"segundo, dois (coisas)",Número Tempo,JLPT N5
+三つ,三つ,みっつ,mittsu,"terceiro, três (coisas)",Número Tempo,JLPT N5
+四つ,四つ,よっつ,yottsu,"quarto, quatro (coisas)",Número Tempo,JLPT N5
+五つ,五つ,いつつ,itsutsu,"quinto, cinco (coisas)",Número Tempo,JLPT N5
+六つ,六つ,むっつ,muttsu,"sexto, seis (coisas)",Número Tempo,JLPT N5
+七つ,七つ,ななつ,nanatsu,"sétimo, sete (coisas)",Número Tempo,JLPT N5
+八つ,八つ,やっつ,yattsu,"oitavo, oito (coisas)",Número Tempo,JLPT N5
+九つ,九つ,ここのつ,kokonotsu,"nono, nove (coisas)",Número Tempo,JLPT N5
+日,日,ひ,hi,dia,Número Tempo,JLPT N5
+週,週,しゅう,shuu,semana,Número Tempo,JLPT N5
+月,月,つき,tsuki,mês,Número Tempo,JLPT N5
+年,年,ねん,nen,ano,Número Tempo,JLPT N5
+一日,一日,ついたち,tsuitachi,dia um,Número Tempo,JLPT N5
+二日,二日,ふつか,futsuka,"dia dois, dois dias",Número Tempo,JLPT N5
+三日,三日,みっか,mikka,"dia três, três dias",Número Tempo,JLPT N5
+四日,四日,よっか,yokka,"dia quatro, quatro dias",Número Tempo,JLPT N5
+五日,五日,いつか,itsuka,"dia cinco, cinco dias",Número Tempo,JLPT N5
+六日,六日,むいか,muika,"dia seis, seis dias",Número Tempo,JLPT N5
+七日,七日,なのか,nanoka,"dia sete, sete dias",Número Tempo,JLPT N5
+八日,八日,ようか,youka,"dia oito, oito dias",Número Tempo,JLPT N5
+九日,九日,ここのか,kokonoka,"dia nove, nove dias",Número Tempo,JLPT N5
+十日,十日,とおか,tooka,"dia dez, dez dias",Número Tempo,JLPT N5
+二十日,二十日,はつか,hatsuka,"dia vinte, vinte dias",Número Tempo,JLPT N5
+月曜日,月曜日,げつようび,getsuyoubi,segunda-feira,Número Tempo,JLPT N5
+火曜日,火曜日,かようび,kayoubi,terça-feira,Número Tempo,JLPT N5
+水曜日,水曜日,すいようび,suiyoubi,quarta-feira,Número Tempo,JLPT N5
+木曜日,木曜日,もくようび,mokuyoubi,quinta-feira,Número Tempo,JLPT N5
+金曜日,金曜日,きんようび,kinyoubi,sexta-feira,Número Tempo,JLPT N5
+土曜日,土曜日,どようび,doyoubi,sábado,Número Tempo,JLPT N5
+日曜日,日曜日,にちようび,nichiyoubi,domingo,Número Tempo,JLPT N5
+1月,1月,いちがつ,ichigatsu,janeiro,Número Tempo,JLPT N5
+2月,2月,にがつ,nigatsu,fevereiro,Número Tempo,JLPT N5
+3月,3月,さんがつ,sangatsu,março,Número Tempo,JLPT N5
+4月,4月,しがつ,shigatsu,abril,Número Tempo,JLPT N5
+5月,5月,ごがつ,gogatsu,maio,Número Tempo,JLPT N5
+6月,6月,ろくがつ,rokugatsu,junho,Número Tempo,JLPT N5
+7月,7月,しちがつ,shichigatsu,julho,Número Tempo,JLPT N5
+8月,8月,はちがつ,hachigatsu,agosto,Número Tempo,JLPT N5
+9月,9月,くがつ,kugatsu,setembro,Número Tempo,JLPT N5
+10月,10月,じゅうがつ,juugatsu,outubro,Número Tempo,JLPT N5
+11月,11月,じゅういちがつ,juuichigatsu,novembro,Número Tempo,JLPT N5
+12月,12月,じゅうにがつ,juunigatsu,dezembro,Número Tempo,JLPT N5
+今日,今日,きょう,kyou,hoje,Número Tempo,JLPT N5
+昨日,昨日,きのう,kinou,ontem,Número Tempo,JLPT N5
+一昨日,一昨日,おととい,ototoi,anteontem,Número Tempo,JLPT N5
+明日,明日,あした,ashita,amanhã,Número Tempo,JLPT N5
+明後日,明後日,あさって,asatte,depois de amanhã,Número Tempo,JLPT N5
+一日,一日,いちにち,ichinichi,um dia,Número Tempo,JLPT N5
+今年,今年,ことし,kotoshi,este ano,Número Tempo,JLPT N5
+去年,去年,きょねん,kyonen,ano passado,Número Tempo,JLPT N5
+一昨年,一昨年,おととし,ototoshi,ano retrasado,Número Tempo,JLPT N5
+来年,来年,らいねん,rainen,ano que vem,Número Tempo,JLPT N5
+再来年,再来年,さらいねん,sarainen,ano depois do ano que vem,Número Tempo,JLPT N5
+夕べ,夕べ,ゆうべ,yuube,ontem à noite,Número Tempo,JLPT N5
+午前,午前,ごぜん,gozen,manhã (primeiras 12h),Número Tempo,JLPT N5
+朝,朝,あさ,asa,manhã,Número Tempo,JLPT N5
+昼,昼,ひる,hiru,meio-dia,Número Tempo,JLPT N5
+午後,午後,ごご,gogo,tarde,Número Tempo,JLPT N5
+夕方,夕方,ゆうがた,yuugata,entardecer,Número Tempo,JLPT N5
+晩,晩,ばん,ban,noite,Número Tempo,JLPT N5
+夜,夜,よる,yoru,noite (madrugada),Número Tempo,JLPT N5
+今朝,今朝,けさ,kesa,esta manhã,Número Tempo,JLPT N5
+今晩,今晩,こんばん,konban,esta noite,Número Tempo,JLPT N5
+毎朝,毎朝,まいあさ,maiasa,toda manhã,Número Tempo,JLPT N5
+毎晩,毎晩,まいばん,maiban,toda noite,Número Tempo,JLPT N5
+毎日,毎日,まいにち,mainichi,todo dia,Número Tempo,JLPT N5
+毎週,毎週,まいしゅう,maishuu,toda semana,Número Tempo,JLPT N5
+毎月,毎月,まいつき,maitsuki,todo mês,Número Tempo,JLPT N5
+毎年,毎年,まいとし,maitoshi,todo ano,Número Tempo,JLPT N5
+時間,時間,じかん,jikan,"tempo, hora",Número Tempo,JLPT N5
+二十歳,二十歳,はたち,hatachi,vinte anos,Número Tempo,JLPT N5
+誕生日,誕生日,たんじょうび,tanjoubi,aniversário,Número Tempo,JLPT N5
+夏休み,夏休み,なつやすみ,natsuyasumi,férias de verão,Número Tempo,JLPT N5
+瓦,グラム,グラム,guramu,grama,Número Tempo,JLPT N5
+キロ,キロ,キロ,kiro,quilo,Número Tempo,JLPT N5
+瓩,瓩,キログラム,kiroguramu,quilograma,Número Tempo,JLPT N5
+米,米,メートル,meetoru,metro,Número Tempo,JLPT N5
+粁,粁,キロメートル,kiromeetoru,quilômetro,Número Tempo,JLPT N5
+所,所,ところ,tokoro,lugar,Lugar,JLPT N5
+上,上,うえ,ue,cima,Lugar,JLPT N5
+下,下,した,shita,baixo,Lugar,JLPT N5
+右,右,みぎ,migi,direita,Lugar,JLPT N5
+左,左,ひだり,hidari,esquerda,Lugar,JLPT N5
+前,前,まえ,mae,frente,Lugar,JLPT N5
+後ろ,後ろ,うしろ,ushiro,trás,Lugar,JLPT N5
+中,中,なか,naka,dentro,Lugar,JLPT N5
+外,外,そと,soto,fora,Lugar,JLPT N5
+入口,入口,いりぐち,iriguchi,entrada,Lugar,JLPT N5
+出口,出口,でぐち,deguchi,saída,Lugar,JLPT N5
+先,先,さき,saki,à frente,Lugar,JLPT N5
+側,側,がわ,gawa,lado,Lugar,JLPT N5
+隣,隣,となり,tonari,vizinho (posição),Lugar,JLPT N5
+北,北,きた,kita,norte,Lugar,JLPT N5
+南,南,みなみ,minami,sul,Lugar,JLPT N5
+東,東,ひがし,higashi,leste,Lugar,JLPT N5
+西,西,にし,nishi,oeste,Lugar,JLPT N5
+家,家,いえ,ie,casa,Lugar,JLPT N5
+家庭,家庭,かてい,katei,lar,Lugar,JLPT N5
+アパート,アパート,アパート,apaato,apartamento,Lugar,JLPT N5
+ホテル,ホテル,ホテル,hoteru,hotel,Lugar,JLPT N5
+部屋,部屋,へや,heya,quarto,Lugar,JLPT N5
+台所,台所,だいどころ,daidokoro,cozinha,Lugar,JLPT N5
+風呂,風呂,ふろ,furo,banho,Lugar,JLPT N5
+お風呂,お風呂,おふろ,ofuro,banho (formal),Lugar,JLPT N5
+お手洗い,お手洗い,おてあらい,otearai,banheiro (formal),Lugar,JLPT N5
+トイレ,トイレ,トイレ,toire,banheiro (casual),Lugar,JLPT N5
+洗濯,洗濯,せんたく,sentaku,"lavanderia, lavagem de roupa",Lugar,JLPT N5
+玄関,玄関,げんかん,genkan,entrada da casa,Lugar,JLPT N5
+廊下,廊下,ろうか,rouka,corredor,Lugar,JLPT N5
+階段,階段,かいだん,kaidan,escada,Lugar,JLPT N5
+建物,建物,たてもの,tatemono,prédio,Lugar,JLPT N5
+エレベーター,エレベーター,エレベーター,erebeetaa,elevador,Lugar,JLPT N5
+会社,会社,かいしゃ,kaisha,empresa,Lugar,JLPT N5
+店,店,みせ,mise,loja,Lugar,JLPT N5
+レストラン,レストラン,レストラン,resutoran,restaurante,Lugar,JLPT N5
+食堂,食堂,しょくどう,shokudou,refeitório,Lugar,JLPT N5
+喫茶店,喫茶店,きっさてん,kissaten,"casa de chá, cafeteria (tradicional)",Lugar,JLPT N5
+八百屋,八百屋,やおや,yaoya,quitanda,Lugar,JLPT N5
+デパート,デパート,デパート,depaato,loja de departamento,Lugar,JLPT N5
+学校,学校,がっこう,gakkou,escola,Lugar,JLPT N5
+大学,大学,だいがく,daigaku,universidade,Lugar,JLPT N5
+教室,教室,きょうしつ,kyoushitsu,sala de aula,Lugar,JLPT N5
+映画館,映画館,えいがかん,eigakan,cinema,Lugar,JLPT N5
+図書館,図書館,としょかん,toshokan,biblioteca,Lugar,JLPT N5
+病院,病院,びょういん,byouin,hospital,Lugar,JLPT N5
+郵便局,郵便局,ゆうびんきょく,yuubinkyoku,correio,Lugar,JLPT N5
+銀行,銀行,ぎんこう,ginkou,banco,Lugar,JLPT N5
+大使館,大使館,たいしかん,taishikan,embaixada,Lugar,JLPT N5
+交番,交番,こうばん,kouban,posto policial,Lugar,JLPT N5
+駅,駅,えき,eki,estação (de trem),Lugar,JLPT N5
+地下鉄,地下鉄,ちかてつ,chikatetsu,metrô,Lugar,JLPT N5
+道,道,みち,michi,"caminho, rua",Lugar,JLPT N5
+角,角,かど,kado,esquina,Lugar,JLPT N5
+交差点,交差点,こうさてん,kousaten,cruzamento (trânsito),Lugar,JLPT N5
+橋,橋,はし,hashi,ponte,Lugar,JLPT N5
+公園,公園,こうえん,kouen,parque,Lugar,JLPT N5
+庭,庭,にわ,niwa,jardim,Lugar,JLPT N5
+辺,辺,へん,hen,"área, arredores",Lugar,JLPT N5
+村,村,むら,mura,vila,Lugar,JLPT N5
+町,町,まち,machi,"cidade, bairro",Lugar,JLPT N5
+国,国,くに,kuni,país,Lugar,JLPT N5
+外国,外国,がいこく,gaikoku,país estrangeiro,Lugar,JLPT N5
+人,人,ひと,hito,pessoa,Pessoa,JLPT N5
+方,方,かた,kata,pessoa (formal),Pessoa,JLPT N5
+一人,一人,ひとり,hitori,"uma pessoa, sozinho",Pessoa,JLPT N5
+二人,二人,ふたり,futari,"duas pessoas, casal",Pessoa,JLPT N5
+自分,自分,じぶん,jibun,"eu mesmo, próprio",Pessoa,JLPT N5
+皆,みんな,みんな,minna,todo mundo,Pessoa,JLPT N5
+皆さん,皆さん,みなさん,minasan,"pessoal, todo mundo",Pessoa,JLPT N5
+女,女,おんな,onna,mulher,Pessoa,JLPT N5
+男,男,おとこ,otoko,homem,Pessoa,JLPT N5
+女の子,女の子,おんなのこ,onnanoko,menina,Pessoa,JLPT N5
+男の子,男の子,おとこのこ,otokonoko,menino,Pessoa,JLPT N5
+大人,大人,おとな,otona,adulto,Pessoa,JLPT N5
+子供,子供,こども,kodomo,criança,Pessoa,JLPT N5
+家族,家族,かぞく,kazoku,família,Pessoa,JLPT N5
+母,母,はは,haha,mãe,Pessoa,JLPT N5
+お母さん,お母さん,おかあさん,okaasan,mãe (formal),Pessoa,JLPT N5
+父,父,ちち,chichi,pai,Pessoa,JLPT N5
+お父さん,お父さん,おとうさん,otousan,pai (formal),Pessoa,JLPT N5
+姉,姉,あね,ane,irmã mais velha,Pessoa,JLPT N5
+お姉さん,お姉さん,おねえさん,oneesan,irmã mais velha (formal),Pessoa,JLPT N5
+兄,兄,あに,ani,irmão mais velho,Pessoa,JLPT N5
+お兄さん,お兄さん,おにいさん,oniisan,irmão mais velho (formal),Pessoa,JLPT N5
+妹,妹,いもうと,imouto,irmã mais nova,Pessoa,JLPT N5
+弟,弟,おとうと,otouto,irmão mais novo,Pessoa,JLPT N5
+お祖母さん,おばあさん,おばあさん,obaasan,avó,Pessoa,JLPT N5
+伯母さん,伯母さん,おばさん,obasan,tia,Pessoa,JLPT N5
+両親,両親,りょうしん,ryoushin,pais (pai e mãe),Pessoa,JLPT N5
+兄弟,兄弟,きょうだい,kyoudai,irmãos,Pessoa,JLPT N5
+家内,家内,かない,kanai,esposa (minha),Pessoa,JLPT N5
+奥さん,奥さん,おくさん,okusan,esposa (de outro),Pessoa,JLPT N5
+友達,友達,ともだち,tomodachi,amigo,Pessoa,JLPT N5
+外国人,外国人,がいこくじん,gaikokujin,estrangeiro,Pessoa,JLPT N5
+大勢,大勢,おおぜい,oozei,multidão,Pessoa,JLPT N5
+生徒,生徒,せいと,seito,aluno,Pessoa,JLPT N5
+学生,学生,がくせい,gakusei,estudante,Pessoa,JLPT N5
+留学生,留学生,りゅうがくせい,ryuugakusei,estudante estrangeiro,Pessoa,JLPT N5
+クラス,クラス,クラス,kurasu,"turma, classe",Pessoa,JLPT N5
+先生,先生,せんせい,sensei,professor,Pessoa,JLPT N5
+医者,医者,いしゃ,isha,médico,Pessoa,JLPT N5
+警官,警官,けいかん,keikan,policial,Pessoa,JLPT N5
+お巡りさん,おまわりさん,おまわりさん,omawarisan,guarda (policial de rua),Pessoa,JLPT N5
+水,水,みず,mizu,água,Natureza,JLPT N5
+火,火,ひ,hi,fogo,Natureza,JLPT N5
+風,風,かぜ,kaze,vento,Natureza,JLPT N5
+雪,雪,ゆき,yuki,neve,Natureza,JLPT N5
+空,空,そら,sora,céu,Natureza,JLPT N5
+山,山,やま,yama,montanha,Natureza,JLPT N5
+川,川,かわ,kawa,rio,Natureza,JLPT N5
+池,池,いけ,ike,lago,Natureza,JLPT N5
+海,海,うみ,umi,mar,Natureza,JLPT N5
+天気,天気,てんき,tenki,tempo (clima),Natureza,JLPT N5
+晴れ,晴れ,はれ,hare,"ensolarado, tempo claro",Natureza,JLPT N5
+曇り,曇り,くもり,kumori,nublado,Natureza,JLPT N5
+雨,雨,あめ,ame,chuva,Natureza,JLPT N5
+電気,電気,でんき,denki,eletricidade,Natureza,JLPT N5
+秋,秋,あき,aki,outono,Natureza,JLPT N5
+春,春,はる,haru,primavera,Natureza,JLPT N5
+夏,夏,なつ,natsu,verão,Natureza,JLPT N5
+冬,冬,ふゆ,fuyu,inverno,Natureza,JLPT N5
+木,木,き,ki,árvore,Natureza,JLPT N5
+果物,果物,くだもの,kudamono,fruta,Natureza,JLPT N5
+野菜,野菜,やさい,yasai,"verdura, legume",Natureza,JLPT N5
+花,花,はな,hana,flor,Natureza,JLPT N5
+動物,動物,どうぶつ,doubutsu,animal,Natureza,JLPT N5
+ペット,ペット,ペット,petto,animal de estimação,Natureza,JLPT N5
+犬,犬,いぬ,inu,cachorro,Natureza,JLPT N5
+猫,猫,ねこ,neko,gato,Natureza,JLPT N5
+鳥,鳥,とり,tori,pássaro,Natureza,JLPT N5
+魚,魚,さかな,sakana,peixe,Natureza,JLPT N5
+肉,肉,にく,niku,carne,Natureza,JLPT N5
+鳥肉,鳥肉,とりにく,toriniku,carne de frango,Natureza,JLPT N5
+牛肉,牛肉,ぎゅうにく,gyuuniku,carne bovina,Natureza,JLPT N5
+豚肉,豚肉,ぶたにく,butaniku,carne suína,Natureza,JLPT N5
+卵,卵,たまご,tamago,ovo,Natureza,JLPT N5
+体,体,からだ,karada,corpo,Natureza,JLPT N5
+頭,頭,あたま,atama,cabeça,Natureza,JLPT N5
+手,手,て,te,mão,Natureza,JLPT N5
+足,足,あし,ashi,"pé, perna",Natureza,JLPT N5
+お腹,お腹,おなか,onaka,barriga,Natureza,JLPT N5
+背,背,せ,se,costas,Natureza,JLPT N5
+顔,顔,かお,kao,rosto,Natureza,JLPT N5
+目,目,め,me,olho,Natureza,JLPT N5
+耳,耳,みみ,mimi,"orelha, ouvido",Natureza,JLPT N5
+鼻,鼻,はな,hana,nariz,Natureza,JLPT N5
+口,口,くち,kuchi,boca,Natureza,JLPT N5
+歯,歯,は,ha,dente,Natureza,JLPT N5
+病気,病気,びょうき,byouki,doença,Natureza,JLPT N5
+風邪,風邪,かぜ,kaze,resfriado,Natureza,JLPT N5
+物,物,もの,mono,coisa (física),Objeto,JLPT N5
+本,本,ほん,hon,livro,Objeto,JLPT N5
+ノート,ノート,ノート,nooto,caderno,Objeto,JLPT N5
+新聞,新聞,しんぶん,shinbun,jornal,Objeto,JLPT N5
+雑誌,雑誌,ざっし,zasshi,revista,Objeto,JLPT N5
+辞書,辞書,じしょ,jisho,dicionário (forma moderna),Objeto,JLPT N5
+字引,字引,じびき,jibiki,dicionário (forma antiga ou infantil),Objeto,JLPT N5
+紙,紙,かみ,kami,papel,Objeto,JLPT N5
+頁,ページ,ページ,peeji,página,Objeto,JLPT N5
+作文,作文,さくぶん,sakubun,redação,Objeto,JLPT N5
+絵,絵,え,e,"desenho, pintura",Objeto,JLPT N5
+鉛筆,鉛筆,えんぴつ,enpitsu,lápis,Objeto,JLPT N5
+ペン,ペン,ペン,pen,caneta,Objeto,JLPT N5
+ボールペン,ボールペン,ボールペン,boorupen,caneta esferográfica,Objeto,JLPT N5
+万年筆,万年筆,まんねんひつ,mannenhitsu,caneta-tinteiro,Objeto,JLPT N5
+門,門,もん,mon,portão,Objeto,JLPT N5
+戸,戸,と,to,porta (de correr),Objeto,JLPT N5
+ドア,ドア,ドア,doa,porta,Objeto,JLPT N5
+窓,窓,まど,mado,janela,Objeto,JLPT N5
+テーブル,テーブル,テーブル,teeburu,mesa,Objeto,JLPT N5
+机,机,つくえ,tsukue,mesa de escritório,Objeto,JLPT N5
+椅子,椅子,いす,isu,cadeira,Objeto,JLPT N5
+ベッド,ベッド,ベッド,beddo,cama,Objeto,JLPT N5
+本棚,本棚,ほんだな,hondana,estante de livros,Objeto,JLPT N5
+冷蔵庫,冷蔵庫,れいぞうこ,reizouko,geladeira,Objeto,JLPT N5
+シャワー,シャワー,シャワー,shawaa,chuveiro,Objeto,JLPT N5
+ストーブ,ストーブ,ストーブ,sutoobu,aquecedor,Objeto,JLPT N5
+プール,プール,プール,puuru,piscina,Objeto,JLPT N5
+食べ物,食べ物,たべもの,tabemono,comida,Objeto,JLPT N5
+ご飯,ご飯,ごはん,gohan,"refeição, arroz cozido",Objeto,JLPT N5
+朝ご飯,朝ご飯,あさごはん,asagohan,café da manhã,Objeto,JLPT N5
+昼ご飯,昼ご飯,ひるごはん,hirugohan,almoço,Objeto,JLPT N5
+夕飯,夕飯,ゆうはん,yuuhan,jantar (refeição noturna),Objeto,JLPT N5
+晩御飯,晩御飯,ばんごはん,bangohan,jantar,Objeto,JLPT N5
+お弁当,お弁当,おべんとう,obentou,marmita (formal),Objeto,JLPT N5
+咖哩,カレー,カレー,karee,curry,Objeto,JLPT N5
+バター,バター,バター,bataa,manteiga,Objeto,JLPT N5
+パン,パン,パン,pan,pão,Objeto,JLPT N5
+砂糖,砂糖,さとう,satou,açúcar,Objeto,JLPT N5
+塩,塩,しお,shio,sal,Objeto,JLPT N5
+飴,飴,あめ,ame,doce (bala),Objeto,JLPT N5
+お菓子,お菓子,おかし,okashi,"salgadinho, doce, guloseimas",Objeto,JLPT N5
+飲み物,飲み物,のみもの,nomimono,bebida,Objeto,JLPT N5
+牛乳,牛乳,ぎゅうにゅう,gyuunyuu,leite,Objeto,JLPT N5
+醤油,醤油,しょうゆ,shouyu,shoyu,Objeto,JLPT N5
+紅茶,紅茶,こうちゃ,koucha,chá preto,Objeto,JLPT N5
+珈琲,コーヒー,コーヒー,koohii,café,Objeto,JLPT N5
+お酒,お酒,おさけ,osake,bebida alcoólica,Objeto,JLPT N5
+お茶,お茶,おちゃ,ocha,chá (verde),Objeto,JLPT N5
+服,服,ふく,fuku,roupa,Objeto,JLPT N5
+洋服,洋服,ようふく,youfuku,roupa (ocidental),Objeto,JLPT N5
+シャツ,シャツ,シャツ,shatsu,camisa,Objeto,JLPT N5
+ワイシャツ,ワイシャツ,ワイシャツ,waishatsu,camisa social,Objeto,JLPT N5
+上着,上着,うわぎ,uwagi,"casaco, paletó",Objeto,JLPT N5
+セーター,セーター,セーター,seetaa,suéter,Objeto,JLPT N5
+背広,背広,せびろ,sebiro,terno,Objeto,JLPT N5
+コート,コート,コート,kooto,casaco,Objeto,JLPT N5
+ズボン,ズボン,ズボン,zubon,calça,Objeto,JLPT N5
+スカート,スカート,スカート,sukaato,saia,Objeto,JLPT N5
+靴,靴,くつ,kutsu,sapato,Objeto,JLPT N5
+スリッパ,スリッパ,スリッパ,surippa,"chinelo, pantufa",Objeto,JLPT N5
+靴下,靴下,くつした,kutsushita,meia,Objeto,JLPT N5
+帽子,帽子,ぼうし,boushi,"chapéu, boné",Objeto,JLPT N5
+ネクタイ,ネクタイ,ネクタイ,nekutai,gravata,Objeto,JLPT N5
+ポケット,ポケット,ポケット,poketto,bolso,Objeto,JLPT N5
+眼鏡,眼鏡,めがね,megane,óculos,Objeto,JLPT N5
+鞄,かばん,かばん,kaban,"bolsa, mala",Objeto,JLPT N5
+ハンカチ,ハンカチ,ハンカチ,hankachi,lenço (de bolso),Objeto,JLPT N5
+お皿,お皿,おさら,osara,prato,Objeto,JLPT N5
+茶碗,茶碗,ちゃわん,chawan,tigela,Objeto,JLPT N5
+コップ,コップ,コップ,koppu,copo,Objeto,JLPT N5
+カップ,カップ,カップ,kappu,xícara,Objeto,JLPT N5
+スプーン,スプーン,スプーン,supuun,colher,Objeto,JLPT N5
+フォーク,フォーク,フォーク,fooku,garfo,Objeto,JLPT N5
+ナイフ,ナイフ,ナイフ,naifu,faca,Objeto,JLPT N5
+箸,箸,はし,hashi,hashi,Objeto,JLPT N5
+自転車,自転車,じてんしゃ,jitensha,bicicleta,Objeto,JLPT N5
+車,車,くるま,kuruma,carro,Objeto,JLPT N5
+自動車,自動車,じどうしゃ,jidousha,automóvel (formal),Objeto,JLPT N5
+タクシー,タクシー,タクシー,takushii,táxi,Objeto,JLPT N5
+バス,バス,バス,basu,ônibus,Objeto,JLPT N5
+電車,電車,でんしゃ,densha,trem (elétrico),Objeto,JLPT N5
+飛行機,飛行機,ひこうき,hikouki,avião,Objeto,JLPT N5
+電話,電話,でんわ,denwa,telefone,Objeto,JLPT N5
+手紙,手紙,てがみ,tegami,carta,Objeto,JLPT N5
+葉書,はがき,はがき,hagaki,cartão-postal,Objeto,JLPT N5
+封筒,封筒,ふうとう,fuutou,envelope,Objeto,JLPT N5
+切手,切手,きって,kitte,selo postal,Objeto,JLPT N5
+ポスト,ポスト,ポスト,posuto,caixa de correio,Objeto,JLPT N5
+地図,地図,ちず,chizu,mapa,Objeto,JLPT N5
+石鹸,石鹸,せっけん,sekken,sabão,Objeto,JLPT N5
+薬,薬,くすり,kusuri,remédio,Objeto,JLPT N5
+ラジオ,ラジオ,ラジオ,rajio,rádio,Objeto,JLPT N5
+テレビ,テレビ,テレビ,terebi,televisão,Objeto,JLPT N5
+ラジカセ,ラジカセ,ラジカセ,rajikase,rádio-cassete,Objeto,JLPT N5
+カメラ,カメラ,カメラ,kamera,câmera,Objeto,JLPT N5
+写真,写真,しゃしん,shashin,fotografia,Objeto,JLPT N5
+テープレコーダー,テープレコーダー,テープレコーダー,teepurekoodaa,gravador (de fita),Objeto,JLPT N5
+テープ,テープ,テープ,teepu,fita,Objeto,JLPT N5
+フィルム,フィルム,フィルム,firumu,filme (fotográfico),Objeto,JLPT N5
+レコード,レコード,レコード,rekoodo,disco (de vinil),Objeto,JLPT N5
+ギター,ギター,ギター,gitaa,violão,Objeto,JLPT N5
+買い物,買い物,かいもの,kaimono,compras,Objeto,JLPT N5
+箱,箱,はこ,hako,caixa,Objeto,JLPT N5
+お金,お金,おかね,okane,dinheiro (formal),Objeto,JLPT N5
+財布,財布,さいふ,saifu,carteira,Objeto,JLPT N5
+時計,時計,とけい,tokei,relógio,Objeto,JLPT N5
+カレンダー,カレンダー,カレンダー,karendaa,calendário,Objeto,JLPT N5
+鍵,鍵,かぎ,kagi,chave,Objeto,JLPT N5
+燐寸,マッチ (棒),マッチ (ぼう),macchi (bou),fósforo,Objeto,JLPT N5
+ボタン,ボタン,ボタン,botan,botão,Objeto,JLPT N5
+傘,傘,かさ,kasa,guarda-chuva,Objeto,JLPT N5
+切符,切符,きっぷ,kippu,"passagem, bilhete",Objeto,JLPT N5
+荷物,荷物,にもつ,nimotsu,"bagagem, encomenda",Objeto,JLPT N5
+花瓶,花瓶,かびん,kabin,vaso (de flor),Objeto,JLPT N5
+灰皿,灰皿,はいざら,haizara,cinzeiro,Objeto,JLPT N5
+煙草,たばこ,たばこ,tabako,cigarro,Objeto,JLPT N5
+本当,本当,ほんとう,hontou,verdade,Abstrato,JLPT N5
+全部,全部,ぜんぶ,zenbu,tudo,Abstrato,JLPT N5
+一緒,一緒,いっしょ,issho,junto,Abstrato,JLPT N5
+次,次,つぎ,tsugi,próximo,Abstrato,JLPT N5
+縦,縦,たて,tate,vertical,Abstrato,JLPT N5
+横,横,よこ,yoko,"horizontal, lado",Abstrato,JLPT N5
+色,色,いろ,iro,cor,Abstrato,JLPT N5
+赤,赤,あか,aka,vermelho,Abstrato,JLPT N5
+青,青,あお,ao,azul,Abstrato,JLPT N5
+黒,黒,くろ,kuro,preto,Abstrato,JLPT N5
+白,白,しろ,shiro,branco,Abstrato,JLPT N5
+黄色,黄色,きいろ,kiiro,amarelo,Abstrato,JLPT N5
+緑,緑,みどり,midori,verde,Abstrato,JLPT N5
+茶色,茶色,ちゃいろ,chairo,marrom,Abstrato,JLPT N5
+意味,意味,いみ,imi,significado,Abstrato,JLPT N5
+言葉,言葉,ことば,kotoba,"palavra, idioma",Abstrato,JLPT N5
+名前,名前,なまえ,namae,nome,Abstrato,JLPT N5
+漢字,漢字,かんじ,kanji,"letra, ideograma",Abstrato,JLPT N5
+質問,質問,しつもん,shitsumon,pergunta,Abstrato,JLPT N5
+文章,文章,ぶんしょう,bunshou,"texto, escrita, frase",Abstrato,JLPT N5
+声,声,こえ,koe,voz,Abstrato,JLPT N5
+英語,英語,えいご,eigo,inglês (idioma),Abstrato,JLPT N5
+音楽,音楽,おんがく,ongaku,música,Abstrato,JLPT N5
+映画,映画,えいが,eiga,filme,Abstrato,JLPT N5
+スポーツ,スポーツ,スポーツ,supootsu,esporte,Abstrato,JLPT N5
+ニュース,ニュース,ニュース,nyuusu,notícia,Abstrato,JLPT N5
+話,話,はなし,hanashi,"conversa, história",Abstrato,JLPT N5
+歌,歌,うた,uta,canção,Abstrato,JLPT N5
+授業,授業,じゅぎょう,jugyou,aula,Abstrato,JLPT N5
+宿題,宿題,しゅくだい,shukudai,lição de casa,Abstrato,JLPT N5
+勉強,勉強,べんきょう,benkyou,estudo,Abstrato,JLPT N5
+練習,練習,れんしゅう,renshuu,"prática, treino",Abstrato,JLPT N5
+テスト,テスト,テスト,tesuto,prova,Abstrato,JLPT N5
+問題,問題,もんだい,mondai,"problema, questão",Abstrato,JLPT N5
+コピー,コピー,コピー,kopii,cópia,Abstrato,JLPT N5
+始め,始め,はじめ,hajime,"começo, início",Abstrato,JLPT N5
+休み,休み,やすみ,yasumi,"descanso, folga",Abstrato,JLPT N5
+暇,暇,ひま,hima,tempo livre,Abstrato,JLPT N5
+掃除,掃除,そうじ,souji,limpeza,Abstrato,JLPT N5
+仕事,仕事,しごと,shigoto,trabalho,Abstrato,JLPT N5
+料理,料理,りょうり,ryouri,"culinária, prato",Abstrato,JLPT N5
+散歩,散歩,さんぽ,sanpo,"caminhada, passeio",Abstrato,JLPT N5
+旅行,旅行,りょこう,ryokou,viagem,Abstrato,JLPT N5
+パーティー,パーティー,パーティー,paatii,festa,Abstrato,JLPT N5
+結婚,結婚,けっこん,kekkon,casamento,Abstrato,JLPT N5
+マッチ,マッチ (出発),マッチ (しゅっぱつ),macchi (shuppatsu),partida,Abstrato,JLPT N5
