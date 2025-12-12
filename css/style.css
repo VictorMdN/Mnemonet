@@ -1,0 +1,91 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 20px auto;
+	background-color: #121212;
+	color: #e0e0e0;
+}
+h1.slim {
+	margin-block: 0em;
+}
+.container {
+	padding: 20px;
+	border: 1px solid #444;
+	border-radius: 8px;
+	background-color: #1e1e1e;
+	margin-inline: auto;
+	width: fit-content;
+}
+.main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.hidden { display: none; }
+button {
+	width: 100%;
+	padding: 10px;
+	margin-top: 10px;
+	cursor: pointer;
+	background-color: #6200ea;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+th, td {
+	border: 1px solid #444;
+	padding: 8px;
+	text-align: left;
+}
+.flashcard {
+	display: none;
+	text-align: center;
+	font-size: 24px;
+	padding: 20px;
+	border-radius: 8px;
+	background-color: #333;
+	margin-inline: auto; 
+	width: fit-content;
+	min-width: 400px;
+}
+.relative {
+	position: relative;
+}
+.filter-menu {
+	position: absolute;
+	padding: 10px;
+	top: 100%;
+	left: 0;
+	z-index: 10;
+	white-space: nowrap;
+}
+.filter-menu div {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+.filter-checkbox {
+	width: initial;
+}
+.content-row {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+.no-br{
+	white-space: nowrap;
+}
+input, textarea, select {
+	width: 100%;
+	padding: 8px;
+	margin-top: 5px;
+	background-color: #222;
+	color: #fff;
+	border: 1px solid #444;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
