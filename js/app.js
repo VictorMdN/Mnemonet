@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	
 	let spreadsheetsSelect = document.getElementById("spreadsheets");
 	
-	fetch("spreadsheets/index.json")
+	fetch("./spreadsheets/index.json")
 		.then(res => res.json())
 		.then(files => {
 			files.forEach(sheetName => {
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	document.getElementById('loadButton').addEventListener('click', function() {
 		const spreadsheetsSelect = document.getElementById("spreadsheets");
-		fetch("/spreadsheets/" + encodeURIComponent(spreadsheetsSelect.value))
+		fetch("./spreadsheets/" + encodeURIComponent(spreadsheetsSelect.value))
 			.then(res => {
 				if (!res.ok) throw new Error("Error loading file");
 				return res.arrayBuffer();
