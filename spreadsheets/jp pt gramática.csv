@@ -5,10 +5,10 @@
 のがすき,no ga suki,gostar de (fazer),私はうたうのがすきです。,Watashi wa utau no ga suki desu.,N5,Adjetivo
 のがへた,no ga heta,ruim em (fazer),私は泳ぐのがへたです。,Watashi wa oyogu no ga heta desu.,N5,Adjetivo
 のがじょうず,no ga jouzu,bom em (fazer),私は野菜を切るのが上手です。,Watashi wa yasai o kiru no ga jouzu desu.,N5,Adjetivo
-verbo-てもいい,"te mo ii, de mo ii",tudo bem se (fizer),水を飲んでもいいです。,Mizu o nonde mo ii desu.,N5,Adjetivo
 い-adjectiveくてもいい・(な-adjective・noun) でもいい,"kute mo ii, de mo ii",tudo bem se for,電車でもいい。,Densha de mo ii,N5,Adjetivo
 ていい・でいい,"te ii, de ii",tudo bem se for (informal),それでいいです。,Sore de ii desu.,N5,Adjetivo
-なくてもいい,nakute mo ii,tudo bem se não (fizer),今日は勉強しなくてもいいです。,Kyou wa benkyou shinakute mo ii desu.,N5,Adjetivo
+verbo-てもいい,"te mo ii, de mo ii",tudo bem se (fizer),水を飲んでもいいです。,Mizu o nonde mo ii desu.,N5,Adjetivo
+verbo + なくてもいい,nakute mo ii,tudo bem se não (fizer),今日は勉強しなくてもいいです。,Kyou wa benkyou shinakute mo ii desu.,N5,Adjetivo
 い-adjetivo + い,i,afirmativo,暑いです。,Atsui desu.,N5,Flexão de Adjetivo
 い-adjetivo + かった,katta,afirmativo passado,寒かったです。,samukatta desu.,N5,Flexão de Adjetivo
 い-adjetivo + くない,kunai,negativo,暖かくないです。,atatakaku nai desu.,N5,Flexão de Adjetivo
@@ -45,26 +45,26 @@ substantivo + ごろ・(verbo・い-adjetivo・な-adjetivo + な・substantivo 
 いつ,itsu-,quando,いつ来ますか。,Itsu kimasu ka.,N5,Advérbio
 いくつ,ikutsu-,quantos,傘はいくつありますか。,Kasa wa ikutsu arimasu ka.,N5,Advérbio
 いくら,ikura-,quanto,本はいくらですか。,Hon wa ikura desu ka.,N5,Advérbio
-verbo (dicionário),-u,presente,パンを食べる。,Pan o taberu.,N5,Conjugação
-verbo + ます,masu,presente (polido),パンを食べます。,Pan o tabemasu.,N5,Conjugação
-る-verbo + ない,nai,não faz,パンを食べない。,Pan o tabenai.,N5,Conjugação
-う-verbo (ない・わない),"nai, wanai",não faz,水を飲まない。,Mizu o nomanai.,N5,Conjugação
-verbo + ません,masen,não faz (polido),水を飲みません。,Mizu o nomimasen.,N5,Conjugação
-る-verbo + た,ta,passado,パンを食べた。,Pan o tabeta.,N5,Conjugação
-verbo + ました,mashita,passado (polido),パンを食べました。,Pan o tabemashita.,N5,Conjugação
-う-verbo (った・んだ・いた・いだ・した),"tta, nda, ita, ida, shita",passado,果物を切った。,Kudamono o kitta.,N5,Conjugação
-る-verbo + なかった,nakatta,não fez,パンを食べなかった。,Pan o tabenakatta.,N5,Conjugação
-う-verbo (なかった・わなかった),"nakatta, wanakatta",não fez,果物を切らなかった。,Kudamono o kiranakatta.,N5,Conjugação
-verbo + ませんでした,masen deshita,não fez (polido),果物を切りませんでした。,Kudamono o kirimasen deshita.,N5,Conjugação
-verbo + な,na,não faça (proibição),ここで遊ぶな。,Koko de asobuna.,N5,Conjugação
-verbo + たい,tai,querer fazer,パンを食べたい。,Pan o tabetai.,N5,Conjugação
+verbo (dicionário),-u,faz (algo),パンを食べる。,Pan o taberu.,N5,Conjugação
+verbo + ます,masu,faz (algo) (polido),パンを食べます。,Pan o tabemasu.,N5,Conjugação
+る-verbo + ない,nai,não faz (algo),パンを食べない。,Pan o tabenai.,N5,Conjugação
+う-verbo (ない・わない),"nai, wanai",não faz (algo),水を飲まない。,Mizu o nomanai.,N5,Conjugação
+verbo + ません,masen,não faz (algo) (polido),水を飲みません。,Mizu o nomimasen.,N5,Conjugação
+る-verbo + た,ta,fez (algo) (る-verbo),パンを食べた。,Pan o tabeta.,N5,Conjugação
+う-verbo (った・んだ・いた・いだ・した),"tta, nda, ita, ida, shita",fez (algo) (う-verbo),果物を切った。,Kudamono o kitta.,N5,Conjugação
+verbo + ました,mashita,fez (algo) (polido),パンを食べました。,Pan o tabemashita.,N5,Conjugação
+る-verbo + なかった,nakatta,não fez (algo) (る-verbo),パンを食べなかった。,Pan o tabenakatta.,N5,Conjugação
+う-verbo (なかった・わなかった),"nakatta, wanakatta",não fez (algo) (う-verbo),果物を切らなかった。,Kudamono o kiranakatta.,N5,Conjugação
+verbo + ませんでした,masen deshita,não fez (algo) (polido),果物を切りませんでした。,Kudamono o kirimasen deshita.,N5,Conjugação
+verbo + な,na,não faça (algo) (proibição),ここで遊ぶな。,Koko de asobuna.,N5,Conjugação
+verbo + たい,tai,querer fazer (algo),パンを食べたい。,Pan o tabetai.,N5,Conjugação
 verbo (て・って・んて・いて・いで・して),"te, tte, nde, ite, ide, shite",forma conectiva,食べて寝る。,Tabete neru.,N5,Conjugação
 verb-て + continuação,"te-, de-","e, então (ligando ações)",パンを食べて、水を飲む。,"Pan o tabete, mizu o nomu.",N5,Conjunção
 けど・(substantivo・な-adjetivo) + だけど,"kedo, dakedo","mas, porém (informal)",車は高いけど買います。,Kuruma wa takai kedo kaimasu.,N5,Conjunção
-けれども・けれど・けども,"keredomo, keredo, kedomo","mas, porem (polido)",水は冷たいですけれども、飲みます。,"Mizu wa tsumetai desu keredomo, nomimasu.",N5,Conjunção
+けれども・けれど・けども,"keredomo, keredo, kedomo","mas, porém (polido)",水は冷たいですけれども、飲みます。,"Mizu wa tsumetai desu keredomo, nomimasu.",N5,Conjunção
 が,ga,"mas, porém (formal)",好きですが下手です。,Suki desu ga heta desu.,N5,Conjunção
 でも,demo,mas,雨がふっている。でも行く。,Ame ga futte iru. Demo iku.,N5,Conjunção
-しかし,shikashi,"porem, entretanto",朝ご飯を食べた。それから出かけた。,"Mainichi benkyou shimashita. Shikashi, muzukashikatta.",N5,Conjunção
+しかし,shikashi,"porém, entretanto",朝ご飯を食べた。それから出かけた。,"Mainichi benkyou shimashita. Shikashi, muzukashikatta.",N5,Conjunção
 (verbo・い-adjetivo) ので・(な-adjetivo・substantivo) なので,"node, nanode","porque, então, visto que",雨なので行きません。,Ame nanode ikimasen.,N5,Conjunção
 resultado + なぜなら + causa,nazenara,"o motivo, a razão, porque",今日は外に行きません。なぜなら雨だからです。,Kyou wa soto ni ikimasen. Nazenara ame dakara desu.,N5,Conjunção
 causa (から・(substantivo・な-adjetivo) + だから),"kara, dakara","porque, já que",寒いからコートを着ます。,Samui kara kooto o kimasu.,N5,Conjunção
@@ -101,7 +101,7 @@ verbo-てから,"te kara, de kara","depois de (fazer algo), após",学校が終�
 を,"wo, o",objeto direto,水を飲みます。,Mizu o nomimasu.,N5,Partícula
 に,ni,"para, em, a, no, na",家に行きます。,Ie ni ikimasu.,N5,Partícula
 へ,"he, e","para, em direção a",日本へ行きます。,Nihon e ikimasu.,N5,Partícula
-で,de,"em, no, na (local de ação)",車で学校へ行きます。,Kuruma de gakkou e ikimasu.,N5,Partícula
+で,de,"em, no, na (local de ação)",ここでお茶を飲みます。,Koko de ocha o nomimasu.,N5,Partícula
 で (modo),de,"com, usando, por meio de",フォークで食べます。,Fooku de tabemasu.,N5,Partícula
 の + objeto,no-,de (indica relação),私の車。,Watashi no kuruma.,N5,Partícula
 の,no,possessivo (substantivo omitido),私のは赤いです。,Watashi no wa akai desu.,N5,Partícula
